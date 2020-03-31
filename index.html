@@ -1,0 +1,200 @@
+<!DOCTYPE html>
+<html>
+<title>Corona news in English</title>
+<meta charset="UTF-8">
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="www/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+<script src="www/buttonFunctions.js"></script>
+<script src="www/toggleNews.js"></script>
+<script src="www/createTableCases.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel='stylesheet' href="www/style.css">
+<link rel="stylesheet" href="www/jquery.dataTables.min.css">
+<script>
+  $(document).ready(function(){
+   $("#newsContentRIVM").load("www/rivm.html");
+  $("#NewsContentGovernment").load("www/government.html");
+})    
+</script>
+
+<body class="w3-white">
+    <!-- Top container -->
+<div class="w3-bar w3-top w3-black w3-large" style="z-index:4">
+  <button class="w3-bar-item w3-button w3-hide-large w3-hover-none w3-hover-text-light-grey" onclick="w3_open();"><i class="fa fa-bars"></i>  Menu</button>
+  <span class="w3-bar-item w3-right">Logo</span>
+</div>
+
+<!-- Sidebar/menu -->
+<nav class="w3-sidebar w3-collapse w3-light-grey w3-animate-left" style="z-index:3;width:300px;" id="mySidebar"><br>
+  <div class="w3-container w3-row">
+  <div>
+    <h1>Corona App</h1> 
+  </div>
+  </div>
+  <hr>
+  <div class="w3-container">
+    <h5>Useful links:</h5>
+  </div>
+  <div class="w3-bar-block">
+    <a href="#" class="w3-bar-item w3-button w3-padding-16 w3-hide-large w3-dark-grey w3-hover-black" onclick="w3_close()" title="close menu"><i class="fa fa-remove fa-fw"></i>  Close Menu</a>
+    <a href="https://www.rivm.nl/en" class="w3-bar-item w3-button w3-padding w3-blue" target="_blank"><i class="fa fa-users fa-fw" ></i>RIVM</a>
+    <a href="https://www.government.nl/ministries/ministry-of-health-welfare-and-sport" class="w3-bar-item w3-button w3-padding" target="_blank"><i class="fa fa-eye fa-fw"></i>Dutch goverment</a>
+    <a href="https://www.facebook.com/NOSinEnglish/" class="w3-bar-item w3-button w3-padding" target="_blank"><i class="fa fa-users fa-fw"></i>  NOS in english</a>
+    <a href="https://h4i.nl/" class="w3-bar-item w3-button w3-padding" target="_blank"><i class="fa fa-users fa-fw"></i>  Healthcare for expats</a>
+    <a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/" class="w3-bar-item w3-button w3-padding" target="_blank"><i class="fa fa-users fa-fw"></i>  WHO: Covid-19</a>
+  </div>
+  <hr>
+</nav>
+<!-- Overlay effect when opening sidebar on small screens -->
+<div class="w3-overlay w3-hide-large w3-animate-opacity" onclick="w3_close()" style="cursor:pointer" title="close side menu" id="myOverlay"></div>
+<!-- !PAGE CONTENT! -->
+<div class="w3-main" style="margin-left:300px;margin-top:43px;">
+  <!-- Header -->
+  <header class="w3-container" style="padding-top:22px">
+  </header>
+  
+  <div class="w3-row-padding w3-margin-bottom">
+    <div class="w3-quarter" onclick="myFunctionNews()" style="cursor: pointer;">
+      <div class="w3-container w3-red w3-padding-16">
+        <div class="w3-left"><i class="fa fa-comment w3-xxxlarge"></i></div>
+        <div class="w3-right">
+        </div>
+        <div class="w3-clear"></div>
+        <h4>News</h4>
+
+      </div>
+    </div>
+    <div class="w3-quarter" onclick="myFunctionPrecautions()" style="cursor:pointer;">
+      <div class="w3-container w3-blue w3-padding-16">
+        <div class="w3-left"><i class="fa fa-eye w3-xxxlarge"></i></div>
+        <div class="w3-right">
+
+        </div>
+        <div class="w3-clear"></div>
+        <h4>Precautions</h4>
+      </div>
+    </div>
+    <div class="w3-quarter" onclick="myFunctionNumbers()" style="cursor: pointer;">
+      <div class="w3-container w3-teal w3-padding-16">
+        <div class="w3-left"><i class="fa fa-share-alt w3-xxxlarge"></i></div>
+        <div class="w3-right">
+        </div>
+        <div class="w3-clear"></div>
+        <h4>Corona in numbers</h4>
+      </div>
+    </div>
+  </div>
+  <div class="w3-panel">
+    <div class="w3-row-padding" style="margin:0 -16px">
+      <div class="w3-third w3-show"  style="margin: 0 -16px">
+    </div>
+      <div class="w3-twothird w3-show"  id="GeneralInfo" align="w3-right">
+        <h1>General information</h1>
+        <hr>
+        <p text-align="center" style="font-size:20px">In December 2019 in Wuhan China, originated an outbreak of a novel coronavirus also called severe acute respiratory sundrome coronavirus-2 (SARS-CoV-2)<br>
+        The disease it can cause is called coronavirus disease 2019, abbreviated as COVID-19. Most patients have a fever and resporatory complaints.
+        In the Netherlands, but also worldwide, measures are being taken to prevent the further spread of the novel coronavirus. <a class="weblink" href="https://www.rivm.nl/en/novel-coronavirus-covid-19">[source]</a></p>
+        <hr>
+        <p text-align="center" style="font-size:20px">Currently, there are daily updates about new Corona cases, number of deaths, but also precautions measurements. However, we noticed that most of the communication
+          is in Dutch, whereas there is a large population of non-Dutch speaking citizins. Therefore, we have build this web application that collects the news from different sources (RIVM, Dutch goverment), but also
+          provides you with figures regarding Corona cases.
+        </p>
+      </div>
+      </div>
+  <div class="w3-container w3-hide" id='News'>
+      <h3> Switch between the news sources by clicking the buttons</h3>
+      <a href="#" class="myButton" onclick="showRIVMnews()">RIVM</a>
+      <a href="#" class="myButton" onclick="showGovernment()">Government</a>
+      <div id="newsContentRIVM" class="w3-container w3-show" style='overflow-y: auto; height: 100%; width:100%;'></div>
+      <div id="NewsContentGovernment" class="w3-container w3-hide" style='overflow-y: auto; height: 100%; width:100%;'></div>
+  </div>
+  <div class="w3-container w3-hide" id="Precautions">
+    <h1>Precautions</h1>
+    <div class='row'>    
+      <p text-align="center" style="font-size:20px">
+      <div class="column">
+        <h3>Guidelines from Thuisarts.nl translated to English</h3>
+      <strong>General remark: stay at home if you have one of the following symptoms:</strong>
+      <ul>
+          <li>Cold</li>
+          <li>Sneezing</li>
+          <li>Cough</li>
+          <li>Soar throat</li>
+          <li>Trouble breathing</li>
+          <li>Fever (body temperature above 38 degrees</li>
+      </ul><br>
+
+      In case you show one of these symptoms, you do not have to be tested. The advice is to stay at home, until you are at least symptom free for 24 hours.<br>
+         <strong>Only call the GP:</strong> in case if the fever or sickness is getting worse or you get more trouble breathing.<br>
+      <br>
+      <strong>For persons older than 70, persons with a weak immune system or persons with a chronic illness.</strong><br/>
+      <strong> Call your GP if:</strong>
+      <ul>
+          <li>Fever (or the sensation of fever)</li>
+          <li>Coughing</li>
+          <li>Trouble breathing</li>
+      </ul>
+    </p>
+    </div>
+    <div class="column">
+      <h3>What can you do to reduce your own risk?</h3> 
+      <p text-align="center" style="fonti-size:20px;">
+        Here are the preventive measures every citizen should follow to prevent the spreading of the novel coronavirus:
+        <ul>
+        <li>Wash your hands with soap frequently</li>
+        <li>Cough and sneeze on the inside of your elbow</li>
+        <li>Use paper tissues, dispose of them immediately</li>
+        <li>No handshaking   </li>
+        <li>Stay at home with symptoms of the common cold or flu</li>
+        <li> Limit social contacts </li>
+        <li> Maintain social distancing</li>
+        <li>Avoid touching eyes, nose and mouth</li>
+        </ul>
+        Read further about the protective measures issued by the <a class="weblink" href="https://www.rivm.nl/en/novel-coronavirus-covid-19" color:#0000FF>RIVM</a> </p>
+    </div>
+    <img src="www/image_precautions.png">
+    </div>
+  </div>
+  <div class="w3-container w3-hide" id="Facts">
+  <div class="row">
+    <div class="column">
+      <img src="www/total_cases.jpeg" heigth="500px" width="500px">
+    </div>
+    <div class="column">
+      <table id="casesPerMunicipality" class="display"  width="500px"></table>
+    </div>
+  </div>
+</div>
+  <!-- End page content -->
+</div>
+<script>
+// Get the Sidebar
+var mySidebar = document.getElementById("mySidebar");
+
+// Get the DIV with overlay effect
+var overlayBg = document.getElementById("myOverlay");
+
+// Toggle between showing and hiding the sidebar, and add overlay effect
+function w3_open() {
+  if (mySidebar.style.display === 'block') {
+    mySidebar.style.display = 'none';
+    overlayBg.style.display = "none";
+  } else {
+    mySidebar.style.display = 'block';
+    overlayBg.style.display = "block";
+  }
+}
+
+// Close the sidebar with the close button
+function w3_close() {
+  mySidebar.style.display = "none";
+  overlayBg.style.display = "none";
+}
+</script>
+
+</body>
+</html>

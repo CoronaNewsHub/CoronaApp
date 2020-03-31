@@ -1,0 +1,1 @@
+www directory should be used to place images, text and other documents needed for the website

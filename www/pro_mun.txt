@@ -1,0 +1,370 @@
+Municipality	Province
+Aa en Hunze	Drenthe
+Assen	Drenthe
+Borger-Odoorn	Drenthe
+Coevorden	Drenthe
+Emmen	Drenthe
+Hoogeveen	Drenthe
+Meppel	Drenthe
+Midden-Drenthe	Drenthe
+Noordenveld	Drenthe
+Tynaarlo	Drenthe
+Westerveld	Drenthe
+De Wolden	Drenthe
+Almere	Flevoland
+Dronten	Flevoland
+Lelystad	Flevoland
+Noordoostpolder	Flevoland
+Urk	Flevoland
+Zeewolde	Flevoland
+Achtkarspelen	Friesland
+Ameland	Friesland
+Dantumadiel	Friesland
+De Fryske Marren	Friesland
+Harlingen	Friesland
+Heerenveen	Friesland
+Leeuwarden	Friesland
+Noardeast-Fryslân	Friesland
+Ooststellingwerf	Friesland
+Opsterland	Friesland
+Schiermonnikoog	Friesland
+Smallingerland	Friesland
+Súdwest-Fryslân	Friesland
+Terschelling	Friesland
+Tytsjerksteradiel	Friesland
+Vlieland	Friesland
+Waadhoeke	Friesland
+Weststellingwerf	Friesland
+Apeldoorn	Gelderland
+Barneveld	Gelderland
+Ede	Gelderland
+Elburg	Gelderland
+Epe	Gelderland
+Ermelo	Gelderland
+Harderwijk	Gelderland
+Hattem	Gelderland
+Heerde	Gelderland
+Nijkerk	Gelderland
+Nunspeet	Gelderland
+Oldebroek	Gelderland
+Putten	Gelderland
+Scherpenzeel	Gelderland
+Voorst	Gelderland
+Wageningen	Gelderland
+Buren	Gelderland
+Culemborg	Gelderland
+Geldermalsen	Gelderland
+Lingewaal	Gelderland
+Maasdriel	Gelderland
+Neder-Betuwe	Gelderland
+Neerijnen	Gelderland
+Tiel	Gelderland
+West Maas en Waal	Gelderland
+Zaltbommel	Gelderland
+Aalten	Gelderland
+Berkelland	Gelderland
+Bronckhorst	Gelderland
+Brummen	Gelderland
+Doetinchem	Gelderland
+Lochem	Gelderland
+Montferland	Gelderland
+Oost Gelre	Gelderland
+Oude IJsselstreek	Gelderland
+Winterswijk	Gelderland
+Zutphen	Gelderland
+Arnhem	Gelderland
+Berg en Dal	Gelderland
+Beuningen	Gelderland
+Doesburg	Gelderland
+Druten	Gelderland
+Duiven	Gelderland
+Heumen	Gelderland
+Lingewaard	Gelderland
+Nijmegen	Gelderland
+Overbetuwe	Gelderland
+Renkum	Gelderland
+Rheden	Gelderland
+Rijnwaarden	Gelderland
+Rozendaal	Gelderland
+Westervoort	Gelderland
+Wijchen	Gelderland
+Zevenaar	Gelderland
+Appingedam	Groningen
+Ten Boer	Groningen
+Delfzijl	Groningen
+Groningen	Groningen
+Grootegast	Groningen
+Haren	Groningen
+Het Hogeland	Groningen
+Leek	Groningen
+Loppersum	Groningen
+Marum	Groningen
+Midden-Groningen	Groningen
+Oldambt	Groningen
+Pekela	Groningen
+Stadskanaal	Groningen
+Veendam	Groningen
+Westerwolde	Groningen
+Zuidhorn	Groningen
+Beesel	Limburg
+Bergen	Limburg
+Gennep	Limburg
+Horst aan de Maas	Limburg
+Mook en Middelaar	Limburg
+Peel en Maas	Limburg
+Venlo	Limburg
+Venray	Limburg
+Echt-Susteren	Limburg
+Leudal	Limburg
+Maasgouw	Limburg
+Nederweert	Limburg
+Roerdalen	Limburg
+Roermond	Limburg
+Weert	Limburg
+Beek	Limburg
+Brunssum	Limburg
+Eijsden-Margraten	Limburg
+Gulpen-Wittem	Limburg
+Heerlen	Limburg
+Kerkrade	Limburg
+Landgraaf	Limburg
+Maastricht	Limburg
+Meerssen	Limburg
+Nuth	Limburg
+Onderbanken	Limburg
+Schinnen	Limburg
+Simpelveld	Limburg
+Sittard-Geleen	Limburg
+Stein	Limburg
+Vaals	Limburg
+Valkenburg aan de Geul	Limburg
+Voerendaal	Limburg
+Bergen op Zoom	North Brabant
+Breda	North Brabant
+Drimmelen	North Brabant
+Etten-Leur	North Brabant
+Geertruidenberg	North Brabant
+Halderberge	North Brabant
+Moerdijk	North Brabant
+Oosterhout	North Brabant
+Roosendaal	North Brabant
+Rucphen	North Brabant
+Steenbergen	North Brabant
+Woensdrecht	North Brabant
+Zundert	North Brabant
+Alphen-Chaam	North Brabant
+Altena	North Brabant
+Baarle-Nassau	North Brabant
+Dongen	North Brabant
+Gilze en Rijen	North Brabant
+Goirle	North Brabant
+Hilvarenbeek	North Brabant
+Loon op Zand	North Brabant
+Oisterwijk	North Brabant
+Tilburg	North Brabant
+Waalwijk	North Brabant
+Bernheze	North Brabant
+Boekel	North Brabant
+Boxmeer	North Brabant
+Boxtel	North Brabant
+Cuijk	North Brabant
+Grave	North Brabant
+Haaren	North Brabant
+s-Hertogenbosch	North Brabant
+Heusden	North Brabant
+Landerd	North Brabant
+Meierijstad	North Brabant
+Mill en Sint Hubert	North Brabant
+Oss	North Brabant
+Sint Anthonis	North Brabant
+Sint-Michielsgestel	North Brabant
+Uden	North Brabant
+Vught	North Brabant
+Asten	North Brabant
+Bergeijk	North Brabant
+Best	North Brabant
+Bladel	North Brabant
+Cranendonck	North Brabant
+Deurne	North Brabant
+Eersel	North Brabant
+Eindhoven	North Brabant
+Geldrop-Mierlo	North Brabant
+Gemert-Bakel	North Brabant
+Heeze-Leende	North Brabant
+Helmond	North Brabant
+Laarbeek	North Brabant
+Nuenen, Gerwen en Nederwetten	North Brabant
+Oirschot	North Brabant
+Reusel-De Mierden	North Brabant
+Someren	North Brabant
+Son en Breugel	North Brabant
+Valkenswaard	North Brabant
+Veldhoven	North Brabant
+Waalre	North Brabant
+Den Helder	North Holland
+Drechterland	North Holland
+Enkhuizen	North Holland
+Hollands Kroon	North Holland
+Hoorn	North Holland
+Koggenland	North Holland
+Medemblik	North Holland
+Opmeer	North Holland
+Schagen	North Holland
+Stede Broec	North Holland
+Texel	North Holland
+Alkmaar	North Holland
+Bergen	North Holland
+Heerhugowaard	North Holland
+Heiloo	North Holland
+Langedijk	North Holland
+Beverwijk	North Holland
+Castricum	North Holland
+Heemskerk	North Holland
+Uitgeest	North Holland
+Velsen	North Holland
+Bloemendaal	North Holland
+Haarlem	North Holland
+Heemstede	North Holland
+Zandvoort	North Holland
+Wormerland	North Holland
+Zaanstad	North Holland
+Aalsmeer	North Holland
+Amstelveen	North Holland
+Amsterdam	North Holland
+Beemster	North Holland
+Diemen	North Holland
+Edam-Volendam	North Holland
+Haarlemmermeer	North Holland
+Landsmeer	North Holland
+Oostzaan	North Holland
+Ouder-Amstel	North Holland
+Purmerend	North Holland
+Uithoorn	North Holland
+Waterland	North Holland
+Blaricum	North Holland
+Gooise Meren	North Holland
+Hilversum	North Holland
+Huizen	North Holland
+Laren	North Holland
+Weesp	North Holland
+Wijdemeren	North Holland
+Dalfsen	Overijssel
+Hardenberg	Overijssel
+Kampen	Overijssel
+Ommen	Overijssel
+Staphorst	Overijssel
+Steenwijkerland	Overijssel
+Zwartewaterland	Overijssel
+Zwolle	Overijssel
+Deventer	Overijssel
+Olst-Wijhe	Overijssel
+Raalte	Overijssel
+Almelo	Overijssel
+Borne	Overijssel
+Dinkelland	Overijssel
+Enschede	Overijssel
+Haaksbergen	Overijssel
+Hellendoorn	Overijssel
+Hengelo	Overijssel
+Hof van Twente	Overijssel
+Losser	Overijssel
+Oldenzaal	Overijssel
+Rijssen-Holten	Overijssel
+Tubbergen	Overijssel
+Twenterand	Overijssel
+Wierden	Overijssel
+Hillegom	South Holland
+Kaag en Braassem	South Holland
+Katwijk	South Holland
+Leiden	South Holland
+Lisse	South Holland
+Noordwijk	South Holland
+Oegstgeest	South Holland
+Teylingen	South Holland
+Voorschoten	South Holland
+Zoeterwoude	South Holland
+The Hague	South Holland
+Leidschendam-Voorburg	South Holland
+Pijnacker-Nootdorp	South Holland
+Rijswijk	South Holland
+Wassenaar	South Holland
+Zoetermeer	South Holland
+Delft	South Holland
+Midden-Delfland	South Holland
+Westland	South Holland
+Alphen aan den Rijn	South Holland
+Bodegraven-Reeuwijk	South Holland
+Gouda	South Holland
+Krimpenerwaard	South Holland
+Nieuwkoop	South Holland
+Waddinxveen	South Holland
+Rijnmond COROP group	South Holland
+Albrandswaard	South Holland
+Barendrecht	South Holland
+Brielle	South Holland
+Capelle aan den IJssel	South Holland
+Goeree-Overflakkee	South Holland
+Hellevoetsluis	South Holland
+Hoeksche Waard	South Holland
+Krimpen aan den IJssel	South Holland
+Lansingerland	South Holland
+Maassluis	South Holland
+Nissewaard	South Holland
+Ridderkerk	South Holland
+Rotterdam	South Holland
+Schiedam	South Holland
+Vlaardingen	South Holland
+Westvoorne	South Holland
+Zuidplas	South Holland
+Alblasserdam	South Holland
+Dordrecht	South Holland
+Giessenlanden	South Holland
+Gorinchem	South Holland
+Hardinxveld-Giessendam	South Holland
+Hendrik-Ido-Ambacht	South Holland
+Leiderdorp	South Holland
+Molenlanden	South Holland
+Papendrecht	South Holland
+Sliedrecht	South Holland
+Zwijndrecht	South Holland
+Amersfoort	Utrecht
+Baarn	Utrecht
+Bunnik	Utrecht
+Bunschoten	Utrecht
+De Bilt	Utrecht
+De Ronde Venen	Utrecht
+Eemnes	Utrecht
+Houten	Utrecht
+IJsselstein	Utrecht
+Leusden	Utrecht
+Lopik	Utrecht
+Montfoort	Utrecht
+Nieuwegein	Utrecht
+Oudewater	Utrecht
+Renswoude	Utrecht
+Rhenen	Utrecht
+Soest	Utrecht
+Stichtse Vecht	Utrecht
+Utrecht	Utrecht
+Utrechtse Heuvelrug	Utrecht
+Veenendaal	Utrecht
+Vijfheerenlanden	Utrecht
+Wijk bij Duurstede	Utrecht
+Woerden	Utrecht
+Woudenberg	Utrecht
+Zeist	Utrecht
+Hulst	Zeeland
+Sluis	Zeeland
+Terneuzen	Zeeland
+Noord-Beveland	Zeeland
+Schouwen-Duiveland	Zeeland
+Tholen	Zeeland
+Walcheren	Zeeland
+Middelburg	Zeeland
+Veere	Zeeland
+Vlissingen	Zeeland
+Zuid-Beveland	Zeeland
+Borsele	Zeeland
+Goes	Zeeland
+Kapelle	Zeeland
+Reimerswaal	Zeeland
