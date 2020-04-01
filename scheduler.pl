@@ -5,6 +5,7 @@ use warnings;
 while(1 == 1)
 {
 	my $t = localtime();
+	print "\n===============================\nStarted at: $t\n===============================\n\n";
 	my @a = split /\s/, $t;
 	my @arr = split /:/, $a[4];
 
