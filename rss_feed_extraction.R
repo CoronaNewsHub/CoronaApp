@@ -58,7 +58,8 @@ if(!require("rvest")){
 
 
 ####=================================== Code:
-setwd(get.path("html_files"))
+#setwd(get.path("html_files"))
+setwd(get.path("www"))
 # rivm news
 rivm_rss <- get.rss_format(tidyfeed("https://www.rivm.nl/nieuws/rss.xml", list = TRUE))
 rivm_rss_english <-rivm_rss$entries[grep("node", rivm_rss$entries$item_link),] # English news
