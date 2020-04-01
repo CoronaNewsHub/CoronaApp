@@ -22,8 +22,8 @@ while(1 == 1)
 	#run rss feed script; runs after every 60 minutes (depending on time defined in sleep function)
 	system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" rss_feed_extraction.r`);
 	
-	sleep(60);
+	sleep(6);
 	
 	system("perl git.pl");
-	sleep(3540);
+	sleep(3);
 }
