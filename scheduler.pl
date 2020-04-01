@@ -1,0 +1,26 @@
+use strict;
+use warnings;
+#!/usr/bin/Rscript
+
+while(1 == 1)
+{
+	my $t = localtime();
+
+	my @a = split /\s/, $t;
+
+	my @arr = split /:/, $a[3];
+	
+	if($arr[0] >= 14 && $arr[0] <= 16)		#run only between 3 and 5 pm CEST
+	{
+		#run perl prog for webscrapping
+		system("perl perl_web_scrapper.pl");
+		
+		#run make graph prog
+		system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" graphs.r`);
+	}
+	
+	#run rss feed script; runs after every 60 minutes (depending on time defined in sleep function)
+	system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" rss_feed_extraction.r`);
+	
+	sleep(3600);
+}
