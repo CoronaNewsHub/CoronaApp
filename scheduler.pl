@@ -10,7 +10,7 @@ while(1 == 1)
 
 	my @arr = split /:/, $a[3];
 	
-	if($arr[0] >= 14 && $arr[0] <= 16)		#run only between 3 and 5 pm CEST
+	if($arr[0] >= 11 && $arr[0] <= 16)		#run only between 3 and 5 pm CEST
 	{
 		#run perl prog for webscrapping
 		system("perl perl_web_scrapper.pl");
