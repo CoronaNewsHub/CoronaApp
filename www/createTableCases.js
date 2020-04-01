@@ -14,8 +14,8 @@
             data: data_for_table,
             columns: [
                 { title: "Municipality" },
-                { title: "Cases"},
-                { title: "Cases per 100k inhabitants"}
+                { title: "Hospitalized"},
+                { title: "Hospitalized per 100k inhabitants"}
             ]
         } );
         }    
