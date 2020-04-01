@@ -1,0 +1,356 @@
+Municipality	Cases	Cases/100k
+s-Hertogenbosch	150	96.7
+Aa en Hunze	5	19.6
+Aalsmeer	18	56.5
+Aalten	5	18.4
+Achtkarspelen	2	7.2
+Alblasserdam	7	34.7
+Albrandswaard	25	97.7
+Alkmaar	49	44.8
+Almelo	20	27.4
+Almere	60	28.3
+Alphen aan den Rijn	44	39.3
+Alphen-Chaam	26	254.6
+Altena	44	78.6
+Ameland	0	0
+Amersfoort	69	43.9
+Amstelveen	81	88.3
+Amsterdam	571	65.4
+Apeldoorn	60	36.6
+Appingedam	1	8.6
+Arnhem	63	39
+Assen	12	17.5
+Asten	17	101.6
+Baarle-Nassau	3	43.7
+Baarn	7	28.1
+Barendrecht	30	61.6
+Barneveld	22	37.2
+Beek	15	94.5
+Beekdaelen	43	119.5
+Beemster	6	59.9
+Beesel	15	111.3
+Berg en Dal	69	197.2
+Bergeijk	14	75.1
+Bergen (L.)	4	30.6
+Bergen (NH.)	23	77.1
+Bergen op Zoom	17	25.2
+Berkelland	5	11.4
+Bernheze	117	374.4
+Best	27	90
+Beuningen	24	92.7
+Beverwijk	22	52.9
+Bladel	21	103
+Blaricum	6	52
+Bloemendaal	19	80.6
+Bodegraven-Reeuwijk	12	34.4
+Boekel	61	565.7
+Borger-Odoorn	2	7.8
+Borne	21	90.1
+Borsele	7	30.8
+Boxmeer	25	85.1
+Boxtel	26	84.4
+Breda	245	133
+Brielle	11	63.7
+Bronckhorst	11	30.5
+Brummen	8	38.5
+Brunssum	31	111.4
+Bunnik	10	65.8
+Bunschoten	6	27.4
+Buren	9	33.7
+Capelle aan den IJssel	44	65.5
+Castricum	24	66.7
+Coevorden	20	56.7
+Cranendonck	58	274
+Cuijk	14	55.7
+Culemborg	20	69.1
+Dalfsen	16	56
+Dantumadiel	3	15.9
+De Bilt	42	97.4
+De Fryske Marren	22	42.7
+De Ronde Venen	24	54
+De Wolden	7	28.8
+Delft	34	32.8
+Delfzijl	7	28.4
+Den Helder	11	19.5
+Deurne	58	178.6
+Deventer	53	52.6
+Diemen	9	29.2
+Dinkelland	34	128.4
+Doesburg	6	54.2
+Doetinchem	24	41.4
+Dongen	21	80.1
+Dordrecht	46	38.6
+Drechterland	7	35.5
+Drimmelen	30	110
+Dronten	13	31.3
+Druten	18	95.1
+Duiven	7	27.9
+Echt-Susteren	32	101.2
+Edam-Volendam	16	44.2
+Ede	50	42.7
+Eemnes	2	21.6
+Eersel	23	119.1
+Eijsden-Margraten	53	205.8
+Eindhoven	143	61
+Elburg	18	77.7
+Emmen	15	14
+Enkhuizen	18	96.8
+Enschede	55	34.4
+Epe	33	99.4
+Ermelo	23	85.2
+Etten-Leur	54	123.1
+Geertruidenberg	15	69.6
+Geldrop-Mierlo	26	65.4
+Gemert-Bakel	94	305.9
+Gennep	19	112.3
+Gilze en Rijen	29	109.7
+Goeree-Overflakkee	112	223.8
+Goes	17	44.6
+Goirle	34	142.2
+Gooise Meren	26	44.8
+Gorinchem	25	67.6
+Gouda	43	58.5
+Grave	25	201
+Groningen	88	37.8
+Gulpen-Wittem	11	77.6
+Haaksbergen	10	41.1
+Haaren	23	160
+Haarlem	86	52.8
+Haarlemmermeer	61	39.1
+Halderberge	14	46.2
+Hardenberg	21	34.5
+Harderwijk	25	51.6
+Hardinxveld-Giessendam	10	54.7
+Harlingen	4	25.4
+Hattem	12	98.3
+Heemskerk	27	68.9
+Heemstede	32	117.5
+Heerde	40	215.2
+Heerenveen	9	17.8
+Heerhugowaard	31	53.8
+Heerlen	87	99.9
+Heeze-Leende	16	99.1
+Heiloo	17	70.9
+Hellendoorn	14	39
+Hellevoetsluis	15	37.4
+Helmond	105	113.6
+Hendrik-Ido-Ambacht	6	19.2
+Hengelo	40	49.3
+Het Hogeland	9	18.8
+Heumen	20	121.6
+Heusden	46	102.9
+Hillegom	6	27
+Hilvarenbeek	13	83.8
+Hilversum	25	27.5
+Hoeksche Waard	62	70.9
+Hof van Twente	18	51.4
+Hollands Kroon	25	51.6
+Hoogeveen	13	23.3
+Hoorn	23	31.4
+Horst aan de Maas	34	80.1
+Houten	58	115.7
+Huizen	13	31.5
+Hulst	6	21.8
+IJsselstein	38	111.4
+Kaag en Braassem	8	29.3
+Kampen	69	127
+Kapelle	2	15.8
+Katwijk	24	36.5
+Kerkrade	36	78.7
+Koggenland	10	44
+Krimpen aan den IJssel	15	50.8
+Krimpenerwaard	38	67.5
+Laarbeek	45	199.7
+Landerd	50	317.9
+Landgraaf	32	85.4
+Landsmeer	8	69.6
+Langedijk	16	56.8
+Lansingerland	49	78.5
+Laren	8	71
+Leeuwarden	23	18.5
+Leiden	39	31.2
+Leiderdorp	7	25.9
+Leidschendam-Voorburg	24	31.4
+Lelystad	34	43.2
+Leudal	52	144.9
+Leusden	19	62.5
+Lingewaard	28	60.1
+Lisse	4	17.4
+Lochem	14	41.5
+Loon op Zand	31	132.4
+Lopik	17	117.5
+Loppersum	1	10.5
+Losser	3	13.2
+Maasdriel	12	47.9
+Maasgouw	13	54.3
+Maassluis	15	45.2
+Maastricht	185	152.2
+Medemblik	22	48.8
+Meerssen	13	69
+Meierijstad	243	299.3
+Meppel	8	23.6
+Middelburg	14	28.7
+Midden-Delfland	4	20.7
+Midden-Drenthe	5	15.1
+Midden-Groningen	8	13.2
+Mill en Sint Hubert	11	100.5
+Moerdijk	12	32.3
+Molenlanden	23	52.4
+Montferland	10	27.8
+Montfoort	15	107.8
+Mook en Middelaar	8	101.9
+Neder-Betuwe	33	135.6
+Nederweert	27	158.6
+Nieuwegein	33	52
+Nieuwkoop	10	34.7
+Nijkerk	18	41.7
+Nijmegen	197	110.9
+Nissewaard	40	46.9
+Noardeast-Fryslân	6	13.3
+Noord-Beveland	2	27
+Noordenveld	5	16
+Noordoostpolder	11	23.3
+Noordwijk	17	39.1
+Nuenen, Gerwen en Nederwetten	16	68.4
+Nunspeet	52	186.7
+Oegstgeest	15	60.4
+Oirschot	14	74.8
+Oisterwijk	27	102.9
+Oldambt	2	5.2
+Oldebroek	30	126.9
+Oldenzaal	22	69.1
+Olst-Wijhe	9	49.3
+Ommen	10	55.5
+Oost Gelre	11	37.1
+Oosterhout	44	78.6
+Ooststellingwerf	1	3.9
+Oostzaan	8	82.2
+Opmeer	3	25.3
+Opsterland	7	23.5
+Oss	174	189.3
+Oude IJsselstreek	10	25.4
+Ouder-Amstel	10	71.3
+Oudewater	25	244.5
+Overbetuwe	61	127.3
+Papendrecht	7	21.8
+Peel en Maas	140	322.4
+Pekela	3	24.6
+Pijnacker-Nootdorp	29	52.4
+Purmerend	63	77.6
+Putten	6	24.9
+Raalte	20	53
+Reimerswaal	7	30.8
+Renkum	21	66.9
+Renswoude	1	18.4
+Reusel-De Mierden	7	53.4
+Rheden	35	80
+Rhenen	6	29.8
+Ridderkerk	34	73.6
+Rijssen-Holten	21	55
+Rijswijk	20	36.7
+Roerdalen	18	87.5
+Roermond	38	65.2
+Roosendaal	26	33.7
+Rotterdam	375	57.6
+Rozendaal	2	117.3
+Rucphen	10	43.7
+s-Gravenhage	182	33.4
+Schagen	19	40.9
+Scherpenzeel	4	40.5
+Schiedam	31	39.4
+Schiermonnikoog	0	0
+Schouwen-Duiveland	10	29.5
+Simpelveld	14	132.7
+Sint Anthonis	31	265.6
+Sint-Michielsgestel	33	113
+Sittard-Geleen	114	123.3
+Sliedrecht	7	27.8
+Sluis	6	25.8
+Smallingerland	10	17.8
+Soest	30	64.4
+Someren	29	149.7
+Son en Breugel	24	138.6
+Stadskanaal	1	3.2
+Staphorst	6	35
+Stede Broec	20	92
+Steenbergen	17	69.4
+Steenwijkerland	10	22.7
+Stein	34	136
+Stichtse Vecht	34	52.4
+Súdwest-Fryslân	23	25.6
+Terneuzen	20	36.7
+Terschelling	0	0
+Texel	3	22.1
+Teylingen	13	34.7
+Tholen	34	132
+Tiel	33	78.3
+Tilburg	330	150.1
+Tubbergen	14	65.8
+Twenterand	8	23.7
+Tynaarlo	17	50.2
+Tytsjerksteradiel	4	12.5
+Uden	154	365.6
+Uitgeest	9	65.9
+Uithoorn	17	57.7
+Urk	14	66.6
+Utrecht	307	85.8
+Utrechtse Heuvelrug	32	64.5
+Vaals	9	89.1
+Valkenburg aan de Geul	15	91.7
+Valkenswaard	36	115.4
+Veendam	2	7.3
+Veenendaal	20	30.1
+Veere	9	41.1
+Veldhoven	28	61.6
+Velsen	40	58.3
+Venlo	96	94.3
+Venray	37	84.9
+Vijfheerenlanden	47	82.7
+Vlaardingen	43	58.5
+Vlieland	0	0
+Vlissingen	13	29.3
+Voerendaal	13	104.2
+Voorschoten	8	31.2
+Voorst	20	81.5
+Vught	38	143.1
+Waadhoeke	6	13
+Waalre	8	45.8
+Waalwijk	59	121.3
+Waddinxveen	9	30.7
+Wageningen	8	20.2
+Wassenaar	6	22.9
+Waterland	14	80.4
+Weert	43	85.8
+Weesp	10	50.7
+West Betuwe	36	70.3
+West Maas en Waal	19	98.3
+Westerkwartier	20	31.6
+Westerveld	6	30.8
+Westervoort	5	33.4
+Westerwolde	4	15.5
+Westland	61	55.3
+Weststellingwerf	3	11.6
+Westvoorne	12	81.5
+Wierden	9	36.8
+Wijchen	43	104.6
+Wijdemeren	5	20.5
+Wijk bij Duurstede	11	46
+Winterswijk	4	13.9
+Woensdrecht	6	27.4
+Woerden	44	84.1
+Wormerland	13	79.8
+Woudenberg	8	59.9
+Zaanstad	75	47.9
+Zaltbommel	16	55.4
+Zandvoort	10	58.4
+Zeewolde	9	39.7
+Zeist	47	72.4
+Zevenaar	21	48
+Zoetermeer	28	22.3
+Zoeterwoude	3	34.8
+Zuidplas	17	38.7
+Zundert	25	114.6
+Zutphen	16	33.4
+Zwartewaterland	45	198.3
+Zwijndrecht	18	40.2
+Zwolle	92	71.4
