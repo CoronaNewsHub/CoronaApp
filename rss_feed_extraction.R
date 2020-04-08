@@ -35,30 +35,29 @@ get.gover_new <- function(item_link) {
 
 get.path <- function(list_categories) {
   require("here")
-  library(here)
+  suppressPackageStartupMessages(library(here))
   path <- here::here(list_categories)
   return(path)
 }
 ####=================================== R packages:
 if(!require("tidyRSS")){
   install.packages("tidyRSS")
-  library("tidyRSS")
+  suppressPackageStartupMessages(library("tidyRSS"))
 }
 
 if(!require("htmltools")){
   install.packages("htmltools")
-  library("htmltools")
+  suppressPackageStartupMessages(library("htmltools"))
 }
 
 
 if(!require("rvest")){
   install.packages("rvest")
-  library("rvest")
+  suppressPackageStartupMessages(library("rvest"))
 }
 
 
 ####=================================== Code:
-#setwd(get.path("html_files"))
 setwd(get.path("www"))
 # rivm news
 rivm_rss <- get.rss_format(tidyfeed("https://www.rivm.nl/nieuws/rss.xml", list = TRUE))
@@ -84,3 +83,10 @@ item_link <- paste0("https://www.government.nl", total_links[grep("/latest/news/
 gover_new <- get.gover_new(item_link)
 save.html_files(gover_new, "government")
 
+
+# dutchnews.nl - corona news
+total_links <- html_attr(html_nodes(read_html("https://www.dutchnews.nl/news/category/corona/"), "a"), "href")
+news_links  <- total_links[grep("https://www.dutchnews.nl/news/2020", total_links)]
+corona_links <- unique(news_links[grep("corona", news_links)])
+dutch_new <- get.gover_new(corona_links)
+save.html_files(dutch_new, "dutch_new")

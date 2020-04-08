@@ -18,8 +18,8 @@ my $len = @arr;
 open(my $fh1, '>', "www/cases.csv") or die "Could not open file 'cases.csv' $!";
 open(my $fh2, '>', "www/cases.txt") or die "Could not open file 'cases.txt' $!";
 
-print $fh1 "Municipality,Cases,Cases/100k\n";
-print $fh2 "Municipality\tCases\tCases/100k\n";
+print $fh1 "Municipality,Hospitalization,Hospitalization/100K,Cases,Cases/100k\n";
+print $fh1 "Municipality\tHospitalization\tHospitalization/100K\tCases\tCases/100k\n";
 
 my @num;
 
@@ -30,8 +30,8 @@ for(my $i=0; $i<$len; $i++)
 	{
 		my @a = split(';', $arr[$i]);
 		s{'}{}g foreach @a;
-		print $fh1 "$a[1],$a[2],$a[4]\n";
-		print $fh2 "$a[1]\t$a[2]\t$a[4]\n";
+		print $fh1 "$a[1],$a[3],$a[6],$a[2],$a[5]\n";
+		print $fh2 "$a[1],$a[3],$a[6],$a[2],$a[5]\n";
 	}
 	elsif($arr[$i] =~ m/<p><span class="h3">/)
 	{
