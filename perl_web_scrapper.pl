@@ -33,7 +33,7 @@ for(my $i=0; $i<$len; $i++)
 	if($arr[$i] =~ m/[0-9]+;.+;.+;.+;.+/)		#finding the lines with the pattern
 	{
 		my @a = split(';', $arr[$i]);
-		s{'}{}g foreach @a;
+		s{'|,}{}g foreach @a;
 		print $fh1 "$a[1],$a[3],$a[6],$a[2],$a[5]\n";
 		print $fh2 "$a[1]\t$a[3]\t$a[6]\t$a[2]\t$a[5]\n";
 	}
