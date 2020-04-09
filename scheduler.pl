@@ -9,9 +9,9 @@ while(1 == 1)
 	my @a = split /\s/, $t;
 	my @arr = split /:/, $a[4];
 
-	if($arr[0] >= 3 && $arr[0] <= 16)		#run only between 3 and 5 pm CEST
+	if($arr[0] >= 14 && $arr[0] <= 16)		#run only between 3 and 5 pm CEST
 	{
-		print "Entered\n";
+#		print "Entered\n";
 		#run perl prog for webscrapping
 		system("perl perl_web_scrapper.pl");
 		
@@ -25,5 +25,5 @@ while(1 == 1)
 	sleep(60);
 	
 	system("perl git.pl");
-	sleep(3500);
+	sleep(7000);
 }
