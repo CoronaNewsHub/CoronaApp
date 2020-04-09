@@ -17,7 +17,7 @@ melted <- melt(ff)
 p <- ggplot(data=melted, aes(x=Provinces, y=value, fill=variable)) +
 			geom_bar(stat="identity", position=position_dodge()) +
 			theme(axis.text.x = element_text(angle = 45, hjust=1), legend.position = "none") +
-			labs(title = "Number of COVID19 patients\nReported in Netherlands", x = "Provinces", y = "No of cases") +
+			labs(title = "Number of COVID19 cases\nreported in Netherlands", x = "Provinces", y = "No of cases") +
 			scale_fill_brewer(palette="Paired") +
 			geom_text(aes(label=value), position=position_dodge(width=0.9), vjust=-0.5)
 
