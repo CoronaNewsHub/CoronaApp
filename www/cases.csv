@@ -1,356 +1,357 @@
-Municipality,Cases,Cases/100k
-s-Hertogenbosch,235,155113
-Aa en Hunze,7,25453
-Aalsmeer,24,31857
-Aalten,17,27117
-Achtkarspelen,5,27836
-Alblasserdam,16,20165
-Albrandswaard,41,25589
-Alkmaar,116,109444
-Almelo,47,73080
-Almere,131,211840
-Alphen aan den Rijn,78,111889
-Alphen-Chaam,39,10213
-Altena,67,55980
-Ameland,0,3718
-Amersfoort,100,157279
-Amstelveen,155,91691
-Amsterdam,939,872779
-Apeldoorn,123,163829
-Appingedam,2,11644
-Arnhem,111,161368
-Assen,22,68606
-Asten,27,16734
-Baarle-Nassau,3,6860
-Baarn,20,24873
-Barendrecht,56,48713
-Barneveld,53,59077
-Beek,22,15868
-Beekdaelen,57,35976
-Beemster,7,10025
-Beesel,23,13483
-Berg en Dal,106,34990
-Bergeijk,28,18638
-Bergen (L.),8,13085
-Bergen (NH.),37,29844
-Bergen op Zoom,38,67489
-Berkelland,15,43748
-Bernheze,165,31247
-Best,41,29985
-Beuningen,36,25891
-Beverwijk,47,41613
-Bladel,35,20395
-Blaricum,11,11536
-Bloemendaal,33,23570
-Bodegraven-Reeuwijk,19,34869
-Boekel,72,10784
-Borger-Odoorn,3,25558
-Borne,34,23313
-Borsele,12,22738
-Boxmeer,48,29371
-Boxtel,34,30803
-Breda,321,184271
-Brielle,20,17282
-Bronckhorst,18,36052
-Brummen,17,20756
-Brunssum,45,27817
-Bunnik,18,15191
-Bunschoten,19,21867
-Buren,19,26742
-Capelle aan den IJssel,115,67151
-Castricum,47,35988
-Coevorden,31,35296
-Cranendonck,93,21166
-Cuijk,32,25139
-Culemborg,36,28956
-Dalfsen,37,28585
-Dantumadiel,6,18916
-De Bilt,68,43124
-De Fryske Marren,34,51567
-De Ronde Venen,49,44457
-De Wolden,20,24327
-Delft,62,103659
-Delfzijl,12,24666
-Den Helder,18,56305
-Deurne,91,32474
-Deventer,87,100718
-Diemen,17,30781
-Dinkelland,51,26470
-Doesburg,10,11078
-Doetinchem,40,58009
-Dongen,45,26226
-Dordrecht,112,119300
-Drechterland,26,19717
-Drimmelen,35,27274
-Dronten,37,41569
-Druten,37,18918
-Duiven,21,25124
-Echt-Susteren,52,31618
-Edam-Volendam,31,36201
-Ede,96,117166
-Eemnes,7,9247
-Eersel,36,19314
-Eijsden-Margraten,87,25753
-Eindhoven,253,234456
-Elburg,41,23161
-Emmen,36,107055
-Enkhuizen,23,18592
-Enschede,117,159734
-Epe,55,33186
-Ermelo,49,27005
-Etten-Leur,91,43880
-Geertruidenberg,17,21538
-Geldrop-Mierlo,55,39733
-Gemert-Bakel,119,30725
-Gennep,32,16924
-Gilze en Rijen,45,26438
-Goeree-Overflakkee,185,50049
-Goes,34,38080
-Goirle,50,23906
-Gooise Meren,52,58041
-Gorinchem,82,37009
-Gouda,94,73443
-Grave,36,12437
-Groningen,119,232922
-Gulpen-Wittem,28,14176
-Haaksbergen,24,24309
-Haaren,29,14371
-Haarlem,180,162961
-Haarlemmermeer,132,156039
-Halderberge,33,30277
-Hardenberg,74,60940
-Harderwijk,48,48429
-Hardinxveld-Giessendam,17,18295
-Harlingen,5,15720
-Hattem,25,12213
-Heemskerk,60,39188
-Heemstede,74,27239
-Heerde,64,18587
-Heerenveen,32,50494
-Heerhugowaard,53,57592
-Heerlen,151,87057
-Heeze-Leende,33,16150
-Heiloo,24,23974
-Hellendoorn,36,35923
-Hellevoetsluis,35,40158
-Helmond,162,92432
-Hendrik-Ido-Ambacht,15,31204
-Hengelo,69,81147
-Het Hogeland,18,47834
-Heumen,36,16450
-Heusden,65,44699
-Hillegom,16,22208
-Hilvarenbeek,21,15514
-Hilversum,45,90883
-Hoeksche Waard,116,87461
-Hof van Twente,32,35013
-Hollands Kroon,42,48434
-Hoogeveen,27,55697
-Hoorn,45,73232
-Horst aan de Maas,62,42433
-Houten,71,50146
-Huizen,32,41273
-Hulst,17,27556
-IJsselstein,53,34110
-Kaag en Braassem,12,27300
-Kampen,142,54340
-Kapelle,10,12691
-Katwijk,52,65754
-Kerkrade,69,45744
-Koggenland,19,22752
-Krimpen aan den IJssel,31,29533
-Krimpenerwaard,71,56319
-Laarbeek,65,22530
-Landerd,74,15730
-Landgraaf,64,37457
-Landsmeer,16,11492
-Langedijk,28,28157
-Lansingerland,93,62396
-Laren,17,11274
-Leeuwarden,42,124058
-Leiden,73,125174
-Leiderdorp,13,27059
-Leidschendam-Voorburg,43,76553
-Lelystad,55,78619
-Leudal,86,35896
-Leusden,29,30399
-Lingewaard,43,46606
-Lisse,12,22957
-Lochem,21,33730
-Loon op Zand,37,23407
-Lopik,25,14471
-Loppersum,2,9533
-Losser,11,22685
-Maasdriel,19,25034
-Maasgouw,41,23960
-Maassluis,27,33216
-Maastricht,317,121558
-Medemblik,36,45104
-Meerssen,35,18832
-Meierijstad,329,81197
-Meppel,21,33902
-Middelburg,29,48810
-Midden-Delfland,11,19344
-Midden-Drenthe,13,33182
-Midden-Groningen,10,60804
-Mill en Sint Hubert,14,10941
-Moerdijk,28,37136
-Molenlanden,51,43931
-Montferland,22,36009
-Montfoort,28,13920
-Mook en Middelaar,17,7847
-Neder-Betuwe,51,24342
-Nederweert,37,17022
-Nieuwegein,58,63461
-Nieuwkoop,27,28809
-Nijkerk,37,43176
-Nijmegen,319,177698
-Nissewaard,77,85237
-Noardeast-Fryslân,7,45251
-Noord-Beveland,4,7395
-Noordenveld,8,31242
-Noordoostpolder,19,47262
-Noordwijk,24,43528
-Nuenen, Gerwen en Nederwetten,22,23379
-Nunspeet,84,27845
-Oegstgeest,21,24843
-Oirschot,30,18723
-Oisterwijk,38,26241
-Oldambt,4,38213
-Oldebroek,59,23645
-Oldenzaal,29,31832
-Olst-Wijhe,24,18251
-Ommen,26,18007
-Oost Gelre,25,29623
-Oosterhout,60,55990
-Ooststellingwerf,2,25472
-Oostzaan,17,9733
-Opmeer,4,11837
-Opsterland,11,29742
-Oss,266,91932
-Oude IJsselstreek,23,39392
-Ouder-Amstel,16,14029
-Oudewater,36,10226
-Overbetuwe,78,47909
-Papendrecht,23,32133
-Peel en Maas,197,43420
-Pekela,4,12199
-Pijnacker-Nootdorp,42,55329
-Purmerend,114,81233
-Putten,14,24113
-Raalte,39,37709
-Reimerswaal,12,22728
-Renkum,32,31404
-Renswoude,8,5448
-Reusel-De Mierden,13,13110
-Rheden,49,43736
-Rhenen,12,20125
-Ridderkerk,57,46204
-Rijssen-Holten,57,38178
-Rijswijk,37,54432
-Roerdalen,32,20572
-Roermond,73,58254
-Roosendaal,78,77226
-Rotterdam,863,651376
-Rozendaal,2,1705
-Rucphen,23,22873
-s-Gravenhage,440,545163
-Schagen,43,46482
-Scherpenzeel,13,9880
-Schiedam,61,78739
-Schiermonnikoog,0,947
-Schouwen-Duiveland,19,33858
-Simpelveld,23,10552
-Sint Anthonis,45,11672
-Sint-Michielsgestel,51,29203
-Sittard-Geleen,173,92422
-Sliedrecht,21,25217
-Sluis,11,23217
-Smallingerland,16,56154
-Soest,53,46607
-Someren,46,19376
-Son en Breugel,34,17321
-Stadskanaal,2,31688
-Staphorst,25,17144
-Stede Broec,30,21734
-Steenbergen,31,24501
-Steenwijkerland,25,44139
-Stein,51,25000
-Stichtse Vecht,54,64928
-Súdwest-Fryslân,41,89987
-Terneuzen,48,54438
-Terschelling,1,4889
-Texel,8,13573
-Teylingen,26,37426
-Tholen,77,25758
-Tiel,46,42161
-Tilburg,423,219800
-Tubbergen,50,21279
-Twenterand,22,33743
-Tynaarlo,29,33879
-Tytsjerksteradiel,13,32046
-Uden,193,42122
-Uitgeest,14,13649
-Uithoorn,26,29466
-Urk,28,21033
-Utrecht,470,357694
-Utrechtse Heuvelrug,54,49601
-Vaals,14,10099
-Valkenburg aan de Geul,41,16360
-Valkenswaard,77,31200
-Veendam,5,27387
-Veenendaal,54,66491
-Veere,18,21885
-Veldhoven,53,45458
-Velsen,127,68660
-Venlo,161,101797
-Venray,58,43604
-Vijfheerenlanden,112,56816
-Vlaardingen,87,73445
-Vlieland,0,1152
-Vlissingen,37,44365
-Voerendaal,21,12471
-Voorschoten,22,25603
-Voorst,34,24546
-Vught,63,26554
-Waadhoeke,40,46079
-Waalre,20,17454
-Waalwijk,78,48620
-Waddinxveen,28,29293
-Wageningen,17,39673
-Wassenaar,20,26214
-Waterland,18,17422
-Weert,83,50107
-Weesp,22,19729
-West Betuwe,85,51198
-West Maas en Waal,31,19320
-Westerkwartier,39,63375
-Westerveld,15,19460
-Westervoort,11,14973
-Westerwolde,5,25796
-Westland,106,110357
-Weststellingwerf,5,25916
-Westvoorne,20,14728
-Wierden,19,24440
-Wijchen,64,41124
-Wijdemeren,13,24360
-Wijk bij Duurstede,15,23910
-Winterswijk,9,28865
-Woensdrecht,13,21883
-Woerden,77,52294
-Wormerland,25,16299
-Woudenberg,18,13362
-Zaanstad,172,156711
-Zaltbommel,29,28901
-Zandvoort,24,17116
-Zeewolde,15,22656
-Zeist,76,64932
-Zevenaar,41,43740
-Zoetermeer,64,125283
-Zoeterwoude,6,8611
-Zuidplas,45,43894
-Zundert,37,21821
-Zutphen,33,47942
-Zwartewaterland,74,22690
-Zwijndrecht,32,44741
-Zwolle,170,128831
+Municipality,Hospitalization,Hospitalization/100K,Cases,Cases/100k
+Municipality	Hospitalization	Hospitalization/100K	Cases	Cases/100k
+s-Hertogenbosch,101,65.1,235,151.5
+Aa en Hunze,1,3.9,7,27.5
+Aalsmeer,8,25.1,24,75.3
+Aalten,1,3.7,17,62.7
+Achtkarspelen,0,0,5,18
+Alblasserdam,7,34.7,16,79.3
+Albrandswaard,6,23.4,41,160.2
+Alkmaar,37,33.8,116,106
+Almelo,15,20.5,47,64.3
+Almere,83,39.2,131,61.8
+Alphen aan den Rijn,43,38.4,78,69.7
+Alphen-Chaam,15,146.9,39,381.9
+Altena,24,42.9,67,119.7
+Ameland,0,0,0,0
+Amersfoort,42,26.7,100,63.6
+Amstelveen,38,41.4,155,169
+Amsterdam,340,39,939,107.6
+Apeldoorn,30,18.3,123,75.1
+Appingedam,2,17.2,2,17.2
+Arnhem,48,29.7,111,68.8
+Assen,9,13.1,22,32.1
+Asten,9,53.8,27,161.3
+Baarle-Nassau,1,14.6,3,43.7
+Baarn,7,28.1,20,80.4
+Barendrecht,22,45.2,56,115
+Barneveld,10,16.9,53,89.7
+Beek,11,69.3,22,138.6
+Beekdaelen,35,97.3,57,158.4
+Beemster,4,39.9,7,69.8
+Beesel,14,103.8,23,170.6
+Berg en Dal,27,77.2,106,302.9
+Bergeijk,9,48.3,28,150.2
+Bergen (L.),5,38.2,8,61.1
+Bergen (NH.),15,50.3,37,124
+Bergen op Zoom,15,22.2,38,56.3
+Berkelland,2,4.6,15,34.3
+Bernheze,75,240,165,528.1
+Best,25,83.4,41,136.7
+Beuningen,17,65.7,36,139
+Beverwijk,10,24,47,112.9
+Bladel,13,63.7,35,171.6
+Blaricum,5,43.3,11,95.4
+Bloemendaal,5,21.2,33,140
+Bodegraven-Reeuwijk,5,14.3,19,54.5
+Boekel,28,259.6,72,667.7
+Borger-Odoorn,2,7.8,3,11.7
+Borne,13,55.8,34,145.8
+Borsele,4,17.6,12,52.8
+Boxmeer,16,54.5,48,163.4
+Boxtel,13,42.2,34,110.4
+Breda,129,70,321,174.2
+Brielle,8,46.3,20,115.7
+Bronckhorst,2,5.5,18,49.9
+Brummen,8,38.5,17,81.9
+Brunssum,28,100.7,45,161.8
+Bunnik,7,46.1,18,118.5
+Bunschoten,3,13.7,19,86.9
+Buren,7,26.2,19,71
+Capelle aan den IJssel,27,40.2,115,171.3
+Castricum,13,36.1,47,130.6
+Coevorden,9,25.5,31,87.8
+Cranendonck,48,226.8,93,439.4
+Cuijk,9,35.8,32,127.3
+Culemborg,20,69.1,36,124.3
+Dalfsen,15,52.5,37,129.4
+Dantumadiel,2,10.6,6,31.7
+De Bilt,19,44.1,68,157.7
+De Fryske Marren,12,23.3,34,65.9
+De Ronde Venen,23,51.7,49,110.2
+De Wolden,5,20.6,20,82.2
+Delft,31,29.9,62,59.8
+Delfzijl,5,20.3,12,48.6
+Den Helder,8,14.2,18,32
+Deurne,46,141.7,91,280.2
+Deventer,32,31.8,87,86.4
+Diemen,4,13,17,55.2
+Dinkelland,16,60.4,51,192.7
+Doesburg,4,36.1,10,90.3
+Doetinchem,8,13.8,40,69
+Dongen,13,49.6,45,171.6
+Dordrecht,56,46.9,112,93.9
+Drechterland,2,10.1,26,131.9
+Drimmelen,16,58.7,35,128.3
+Dronten,16,38.5,37,89
+Druten,16,84.6,37,195.6
+Duiven,9,35.8,21,83.6
+Echt-Susteren,32,101.2,52,164.5
+Edam-Volendam,16,44.2,31,85.6
+Ede,44,37.6,96,81.9
+Eemnes,1,10.8,7,75.7
+Eersel,18,93.2,36,186.4
+Eijsden-Margraten,37,143.7,87,337.8
+Eindhoven,94,40.1,253,107.9
+Elburg,8,34.5,41,177
+Emmen,13,12.1,36,33.6
+Enkhuizen,16,86.1,23,123.7
+Enschede,42,26.3,117,73.2
+Epe,14,42.2,55,165.7
+Ermelo,15,55.5,49,181.4
+Etten-Leur,33,75.2,91,207.4
+Geertruidenberg,9,41.8,17,78.9
+Geldrop-Mierlo,20,50.3,55,138.4
+Gemert-Bakel,62,201.8,119,387.3
+Gennep,13,76.8,32,189.1
+Gilze en Rijen,16,60.5,45,170.2
+Goeree-Overflakkee,40,79.9,185,369.6
+Goes,8,21,34,89.3
+Goirle,24,100.4,50,209.2
+Gooise Meren,20,34.5,52,89.6
+Gorinchem,13,35.1,82,221.6
+Gouda,26,35.4,94,128
+Grave,16,128.6,36,289.5
+Groningen,14,6,119,51.1
+Gulpen-Wittem,13,91.7,28,197.5
+Haaksbergen,11,45.3,24,98.7
+Haaren,15,104.4,29,201.8
+Haarlem,43,26.4,180,110.5
+Haarlemmermeer,45,28.8,132,84.6
+Halderberge,9,29.7,33,109
+Hardenberg,16,26.3,74,121.4
+Harderwijk,11,22.7,48,99.1
+Hardinxveld-Giessendam,1,5.5,17,92.9
+Harlingen,2,12.7,5,31.8
+Hattem,9,73.7,25,204.7
+Heemskerk,19,48.5,60,153.1
+Heemstede,8,29.4,74,271.7
+Heerde,23,123.7,64,344.3
+Heerenveen,10,19.8,32,63.4
+Heerhugowaard,22,38.2,53,92
+Heerlen,87,99.9,151,173.4
+Heeze-Leende,8,49.5,33,204.3
+Heiloo,8,33.4,24,100.1
+Hellendoorn,7,19.5,36,100.2
+Hellevoetsluis,11,27.4,35,87.2
+Helmond,59,63.8,162,175.3
+Hendrik-Ido-Ambacht,5,16,15,48.1
+Hengelo,14,17.3,69,85
+Het Hogeland,7,14.6,18,37.6
+Heumen,14,85.1,36,218.8
+Heusden,35,78.3,65,145.4
+Hillegom,5,22.5,16,72
+Hilvarenbeek,6,38.7,21,135.4
+Hilversum,18,19.8,45,49.5
+Hoeksche Waard,58,66.3,116,132.6
+Hof van Twente,13,37.1,32,91.4
+Hollands Kroon,26,53.7,42,86.7
+Hoogeveen,10,18,27,48.5
+Hoorn,22,30,45,61.4
+Horst aan de Maas,36,84.8,62,146.1
+Houten,17,33.9,71,141.6
+Huizen,15,36.3,32,77.5
+Hulst,6,21.8,17,61.7
+IJsselstein,26,76.2,53,155.4
+Kaag en Braassem,5,18.3,12,44
+Kampen,46,84.7,142,261.3
+Kapelle,1,7.9,10,78.8
+Katwijk,16,24.3,52,79.1
+Kerkrade,42,91.8,69,150.8
+Koggenland,6,26.4,19,83.5
+Krimpen aan den IJssel,5,16.9,31,105
+Krimpenerwaard,34,60.4,71,126.1
+Laarbeek,27,119.8,65,288.5
+Landerd,28,178,74,470.4
+Landgraaf,33,88.1,64,170.9
+Landsmeer,3,26.1,16,139.2
+Langedijk,15,53.3,28,99.4
+Lansingerland,26,41.7,93,149
+Laren,8,71,17,150.8
+Leeuwarden,29,23.4,42,33.9
+Leiden,27,21.6,73,58.3
+Leiderdorp,8,29.6,13,48
+Leidschendam-Voorburg,16,20.9,43,56.2
+Lelystad,34,43.2,55,70
+Leudal,50,139.3,86,239.6
+Leusden,7,23,29,95.4
+Lingewaard,21,45.1,43,92.3
+Lisse,5,21.8,12,52.3
+Lochem,5,14.8,21,62.3
+Loon op Zand,20,85.4,37,158.1
+Lopik,15,103.7,25,172.8
+Loppersum,0,0,2,21
+Losser,6,26.4,11,48.5
+Maasdriel,14,55.9,19,75.9
+Maasgouw,21,87.6,41,171.1
+Maassluis,13,39.1,27,81.3
+Maastricht,112,92.1,317,260.8
+Medemblik,12,26.6,36,79.8
+Meerssen,11,58.4,35,185.9
+Meierijstad,155,190.9,329,405.2
+Meppel,5,14.7,21,61.9
+Middelburg,13,26.6,29,59.4
+Midden-Delfland,3,15.5,11,56.9
+Midden-Drenthe,6,18.1,13,39.2
+Midden-Groningen,4,6.6,10,16.4
+Mill en Sint Hubert,7,64,14,128
+Moerdijk,7,18.8,28,75.4
+Molenlanden,15,34.1,51,116.1
+Montferland,6,16.7,22,61.1
+Montfoort,12,86.2,28,201.1
+Mook en Middelaar,4,51,17,216.6
+Neder-Betuwe,30,123.2,51,209.5
+Nederweert,25,146.9,37,217.4
+Nieuwegein,26,41,58,91.4
+Nieuwkoop,7,24.3,27,93.7
+Nijkerk,18,41.7,37,85.7
+Nijmegen,100,56.3,319,179.5
+Nissewaard,27,31.7,77,90.3
+Noardeast-Fryslân,4,8.8,7,15.5
+Noord-Beveland,1,13.5,4,54.1
+Noordenveld,1,3.2,8,25.6
+Noordoostpolder,8,16.9,19,40.2
+Noordwijk,11,25.3,24,55.1
+Nuenen, Gerwen en Nederwetten,12,51.3,22,94.1
+Nunspeet,24,86.2,84,301.7
+Oegstgeest,5,20.1,21,84.5
+Oirschot,9,48.1,30,160.2
+Oisterwijk,14,53.4,38,144.8
+Oldambt,1,2.6,4,10.5
+Oldebroek,17,71.9,59,249.5
+Oldenzaal,13,40.8,29,91.1
+Olst-Wijhe,9,49.3,24,131.5
+Ommen,7,38.9,26,144.4
+Oost Gelre,4,13.5,25,84.4
+Oosterhout,27,48.2,60,107.2
+Ooststellingwerf,1,3.9,2,7.9
+Oostzaan,7,71.9,17,174.7
+Opmeer,1,8.4,4,33.8
+Opsterland,5,16.8,11,37
+Oss,107,116.4,266,289.3
+Oude IJsselstreek,5,12.7,23,58.4
+Ouder-Amstel,4,28.5,16,114
+Oudewater,20,195.6,36,352
+Overbetuwe,47,98.1,78,162.8
+Papendrecht,4,12.4,23,71.6
+Peel en Maas,128,294.8,197,453.7
+Pekela,4,32.8,4,32.8
+Pijnacker-Nootdorp,15,27.1,42,75.9
+Purmerend,52,64,114,140.3
+Putten,2,8.3,14,58.1
+Raalte,20,53,39,103.4
+Reimerswaal,4,17.6,12,52.8
+Renkum,12,38.2,32,101.9
+Renswoude,3,55.1,8,146.8
+Reusel-De Mierden,7,53.4,13,99.2
+Rheden,29,66.3,49,112
+Rhenen,3,14.9,12,59.6
+Ridderkerk,27,58.4,57,123.4
+Rijssen-Holten,18,47.1,57,149.3
+Rijswijk,16,29.4,37,68
+Roerdalen,22,106.9,32,155.6
+Roermond,40,68.7,73,125.3
+Roosendaal,15,19.4,78,101
+Rotterdam,230,35.3,863,132.5
+Rozendaal,1,58.7,2,117.3
+Rucphen,6,26.2,23,100.6
+s-Gravenhage,159,29.2,440,80.7
+Schagen,14,30.1,43,92.5
+Scherpenzeel,2,20.2,13,131.6
+Schiedam,30,38.1,61,77.5
+Schiermonnikoog,0,0,0,0
+Schouwen-Duiveland,9,26.6,19,56.1
+Simpelveld,15,142.2,23,218
+Sint Anthonis,17,145.6,45,385.5
+Sint-Michielsgestel,20,68.5,51,174.6
+Sittard-Geleen,76,82.2,173,187.2
+Sliedrecht,5,19.8,21,83.3
+Sluis,6,25.8,11,47.4
+Smallingerland,6,10.7,16,28.5
+Soest,17,36.5,53,113.7
+Someren,20,103.2,46,237.4
+Son en Breugel,22,127,34,196.3
+Stadskanaal,1,3.2,2,6.3
+Staphorst,4,23.3,25,145.8
+Stede Broec,15,69,30,138
+Steenbergen,9,36.7,31,126.5
+Steenwijkerland,10,22.7,25,56.6
+Stein,34,136,51,204
+Stichtse Vecht,25,38.5,54,83.2
+Súdwest-Fryslân,14,15.6,41,45.6
+Terneuzen,16,29.4,48,88.2
+Terschelling,0,0,1,20.5
+Texel,3,22.1,8,58.9
+Teylingen,11,29.4,26,69.5
+Tholen,32,124.2,77,298.9
+Tiel,30,71.2,46,109.1
+Tilburg,150,68.2,423,192.4
+Tubbergen,10,47,50,235
+Twenterand,8,23.7,22,65.2
+Tynaarlo,7,20.7,29,85.6
+Tytsjerksteradiel,4,12.5,13,40.6
+Uden,84,199.4,193,458.2
+Uitgeest,3,22,14,102.6
+Uithoorn,12,40.7,26,88.2
+Urk,18,85.6,28,133.1
+Utrecht,140,39.1,470,131.4
+Utrechtse Heuvelrug,19,38.3,54,108.9
+Vaals,7,69.3,14,138.6
+Valkenburg aan de Geul,13,79.5,41,250.6
+Valkenswaard,10,32.1,77,246.8
+Veendam,1,3.7,5,18.3
+Veenendaal,22,33.1,54,81.2
+Veere,4,18.3,18,82.2
+Veldhoven,17,37.4,53,116.6
+Velsen,21,30.6,127,185
+Venlo,101,99.2,161,158.2
+Venray,34,78,58,133
+Vijfheerenlanden,20,35.2,112,197.1
+Vlaardingen,23,31.3,87,118.5
+Vlieland,0,0,0,0
+Vlissingen,8,18,37,83.4
+Voerendaal,12,96.2,21,168.4
+Voorschoten,8,31.2,22,85.9
+Voorst,8,32.6,34,138.5
+Vught,32,120.5,63,237.3
+Waadhoeke,6,13,40,86.8
+Waalre,4,22.9,20,114.6
+Waalwijk,19,39.1,78,160.4
+Waddinxveen,9,30.7,28,95.6
+Wageningen,10,25.2,17,42.9
+Wassenaar,6,22.9,20,76.3
+Waterland,11,63.1,18,103.3
+Weert,49,97.8,83,165.6
+Weesp,8,40.5,22,111.5
+West Betuwe,27,52.7,85,166
+West Maas en Waal,11,56.9,31,160.5
+Westerkwartier,12,18.9,39,61.5
+Westerveld,4,20.6,15,77.1
+Westervoort,7,46.8,11,73.5
+Westerwolde,5,19.4,5,19.4
+Westland,38,34.4,106,96.1
+Weststellingwerf,2,7.7,5,19.3
+Westvoorne,5,33.9,20,135.8
+Wierden,3,12.3,19,77.7
+Wijchen,34,82.7,64,155.6
+Wijdemeren,6,24.6,13,53.4
+Wijk bij Duurstede,8,33.5,15,62.7
+Winterswijk,2,6.9,9,31.2
+Woensdrecht,4,18.3,13,59.4
+Woerden,34,65,77,147.2
+Wormerland,14,85.9,25,153.4
+Woudenberg,7,52.4,18,134.7
+Zaanstad,82,52.3,172,109.8
+Zaltbommel,14,48.4,29,100.3
+Zandvoort,8,46.7,24,140.2
+Zeewolde,6,26.5,15,66.2
+Zeist,26,40,76,117
+Zevenaar,27,61.7,41,93.7
+Zoetermeer,31,24.7,64,51.1
+Zoeterwoude,2,23.2,6,69.7
+Zuidplas,16,36.5,45,102.5
+Zundert,15,68.7,37,169.6
+Zutphen,12,25,33,68.8
+Zwartewaterland,27,119,74,326.1
+Zwijndrecht,11,24.6,32,71.5
+Zwolle,41,31.8,170,132

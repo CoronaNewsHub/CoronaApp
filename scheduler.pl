@@ -25,5 +25,5 @@ while(1 == 1)
 	sleep(60);
 	
 	system("perl git.pl");
-	sleep(3540);
+	sleep(3500);
 }
