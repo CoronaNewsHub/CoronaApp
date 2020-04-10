@@ -8,6 +8,7 @@
 <script src="www/buttonFunctions.js"></script>
 <script src="www/toggleNews.js"></script>
 <script src="www/createTableCases.js"></script>
+<script src="www/createPieChart.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
@@ -18,6 +19,7 @@
   $(document).ready(function(){
    $("#newsContentRIVM").load("www/rivm.html");
   $("#NewsContentGovernment").load("www/government.html");
+  $("#DutchNews").load("www/dutch_new.html");
 })    
 </script>
 
@@ -109,8 +111,10 @@
       <h3> Switch between the news sources by clicking the buttons</h3>
       <a href="#" class="myButton" onclick="showRIVMnews()">RIVM</a>
       <a href="#" class="myButton" onclick="showGovernment()">Government</a>
+      <a href="#" class="myButton" onclick="showDutchNews()">Dutch news</a>
       <div id="newsContentRIVM" class="w3-container w3-show" style='overflow-y: auto; height: 100%; width:100%;'></div>
       <div id="NewsContentGovernment" class="w3-container w3-hide" style='overflow-y: auto; height: 100%; width:100%;'></div>
+      <div id="DutchNews" class="w3-container w3-hide" style='overflow-y: auto; height: 100%; width:100%;'></div>
   </div>
   <div class="w3-container w3-hide" id="Precautions">
     <h1>Precautions</h1>
@@ -160,15 +164,24 @@
     </div>
   </div>
   <div class="w3-container w3-hide" id="Facts">
-  <div class="row">
-    <div class="column">
-      <img src="www/total_cases.jpeg" heigth="500px" width="450px">
-    </div>
-    <div class="column">
-      <table id="casesPerMunicipality" class="display"  width="500px"></table>
+    <h3>Here we try to visualize the development of the Corona virus in the netherlands. Everyday the numbers will be refreshed based on the reports of the RIVM.</h3>
+ 
+    <div class="row">
+      <div class="column">
+        <p><strong>Here, the numbers of the total cases per muncipality are used to visualize the number per province.</strong></p>
+
+        <img src="www/total_cases.jpeg" heigth="500px" width="450px">
+      </div>
+      <div class="column">
+        <p><strong>For each of the muncipalities, the total amount of cases and hospitalized patients can be found. Here, a calculation has been made to extrapolate those numbers per 100K inhabitants</strong></p>
+
+        <table id="casesPerMunicipality" class="display"  width="500px"></table>
+      </div>
     </div>
   </div>
-</div>
+    
+
+
   <!-- End page content -->
 </div>
 <script>
