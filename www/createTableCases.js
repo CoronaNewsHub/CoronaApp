@@ -12,10 +12,13 @@
           complete: function () {
             $('#casesPerMunicipality').DataTable( {
             data: data_for_table,
+            
             columns: [
                 { title: "Municipality" },
                 { title: "Hospitalized"},
-                { title: "Hospitalized per 100k inhabitants"}
+                { title: "Hospitalized per 100k inhabitants"},
+                { title: "Cases"},
+                {title: "Cases per 100K inhabitants"}
             ]
         } );
         }    
