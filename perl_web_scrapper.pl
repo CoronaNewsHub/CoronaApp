@@ -3,7 +3,7 @@ use warnings;
 use LWP::Simple qw(get);
 use DateTime;
 use Time::Piece;
-
+print "Entered\n";
 my $url = "https://www.rivm.nl/en/current-information-about-novel-coronavirus-covid-19";
 
 #Get data from the link
