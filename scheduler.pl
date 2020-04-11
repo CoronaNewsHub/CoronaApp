@@ -7,11 +7,12 @@ while(1 == 1)
 	my $t = localtime();
 	print "\n===============================\nStarted at: $t\n===============================\n\n";
 	my @a = split /\s/, $t;
-	my @arr = split /:/, $a[4];
-
+#	print "@a\n";
+	my @arr = split /:/, $a[3];
+#	print "$arr[0]\n";
 	if($arr[0] >= 13 && $arr[0] <= 16)		#run only between 1 and 5 pm CEST
 	{
-#		print "Entered\n";
+		print "Entered\n";
 		#run perl prog for webscrapping
 		system("perl perl_web_scrapper.pl");
 		
