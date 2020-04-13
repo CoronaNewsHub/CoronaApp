@@ -1,4 +1,4 @@
 Attribute	Value
-Positive tested persons	25587
-Admitted to hospital	8582
-Reported deaths	2737
+Positive tested persons	26551
+Admitted to hospital	8729
+Reported deaths	2823
