@@ -1,356 +1,356 @@
 Municipality	Hospitalization	Hospitalization/100K	Cases	Cases/100k
-s-Hertogenbosch	106	68.3	292	188.2
-Aa en Hunze	1	3.9	9	35.4
-Aalsmeer	7	22	29	91
+s-Hertogenbosch	108	69.6	296	190.8
+Aa en Hunze	1	3.9	10	39.3
+Aalsmeer	7	22	30	94.2
 Aalten	2	7.4	27	99.6
 Achtkarspelen	0	0	5	18
-Alblasserdam	8	39.7	26	128.9
+Alblasserdam	8	39.7	27	133.9
 Albrandswaard	8	31.3	57	222.8
-Alkmaar	47	42.9	164	149.8
+Alkmaar	47	42.9	165	150.8
 Almelo	18	24.6	64	87.6
-Almere	94	44.4	171	80.7
-Alphen aan den Rijn	49	43.8	105	93.8
+Almere	95	44.8	175	82.6
+Alphen aan den Rijn	49	43.8	106	94.7
 Alphen-Chaam	15	146.9	40	391.7
-Altena	25	44.7	85	151.8
+Altena	27	48.2	88	157.2
 Ameland	0	0	0	0
-Amersfoort	48	30.5	117	74.4
-Amstelveen	42	45.8	201	219.2
-Amsterdam	368	42.2	1190	136.3
-Apeldoorn	38	23.2	174	106.2
+Amersfoort	48	30.5	121	76.9
+Amstelveen	45	49.1	204	222.5
+Amsterdam	401	45.9	1227	140.6
+Apeldoorn	38	23.2	180	109.9
 Appingedam	2	17.2	2	17.2
-Arnhem	50	31	160	99.2
+Arnhem	53	32.8	170	105.3
 Assen	10	14.6	29	42.3
-Asten	12	71.7	39	233.1
+Asten	12	71.7	45	268.9
 Baarle-Nassau	1	14.6	4	58.3
-Baarn	8	32.2	25	100.5
-Barendrecht	28	57.5	69	141.6
-Barneveld	12	20.3	75	127
-Beek	13	81.9	25	157.5
-Beekdaelen	36	100.1	68	189
+Baarn	8	32.2	26	104.5
+Barendrecht	28	57.5	72	147.8
+Barneveld	12	20.3	77	130.3
+Beek	14	88.2	28	176.5
+Beekdaelen	40	111.2	77	214
 Beemster	4	39.9	8	79.8
-Beesel	19	140.9	31	229.9
-Berg en Dal	29	82.9	123	351.5
-Bergeijk	12	64.4	33	177.1
-Bergen (L.)	6	45.9	10	76.4
-Bergen (NH.)	16	53.6	45	150.8
-Bergen op Zoom	17	25.2	55	81.5
-Berkelland	3	6.9	31	70.9
-Bernheze	76	243.2	194	620.9
+Beesel	20	148.3	33	244.8
+Berg en Dal	29	82.9	126	360.1
+Bergeijk	13	69.7	34	182.4
+Bergen (L.)	6	45.9	11	84.1
+Bergen (NH.)	16	53.6	46	154.1
+Bergen op Zoom	19	28.2	58	85.9
+Berkelland	5	11.4	33	75.4
+Bernheze	76	243.2	198	633.7
 Best	31	103.4	45	150.1
 Beuningen	18	69.5	40	154.5
 Beverwijk	15	36	55	132.2
 Bladel	15	73.5	38	186.3
 Blaricum	5	43.3	17	147.4
-Bloemendaal	5	21.2	37	157
-Bodegraven-Reeuwijk	7	20.1	28	80.3
+Bloemendaal	6	25.5	37	157
+Bodegraven-Reeuwijk	7	20.1	29	83.2
 Boekel	31	287.5	80	741.8
 Borger-Odoorn	2	7.8	4	15.7
 Borne	13	55.8	40	171.6
 Borsele	4	17.6	18	79.2
-Boxmeer	17	57.9	65	221.3
+Boxmeer	17	57.9	69	234.9
 Boxtel	17	55.2	39	126.6
-Breda	137	74.3	364	197.5
+Breda	138	74.9	367	199.2
 Brielle	11	63.7	23	133.1
-Bronckhorst	5	13.9	28	77.7
-Brummen	9	43.4	23	110.8
-Brunssum	32	115	53	190.5
-Bunnik	7	46.1	19	125.1
-Bunschoten	4	18.3	26	118.9
-Buren	7	26.2	22	82.3
-Capelle aan den IJssel	31	46.2	159	236.8
-Castricum	13	36.1	54	150.1
+Bronckhorst	5	13.9	30	83.2
+Brummen	9	43.4	24	115.6
+Brunssum	32	115	57	204.9
+Bunnik	7	46.1	20	131.7
+Bunschoten	4	18.3	30	137.2
+Buren	7	26.2	24	89.7
+Capelle aan den IJssel	33	49.1	164	244.2
+Castricum	13	36.1	55	152.8
 Coevorden	9	25.5	40	113.3
-Cranendonck	57	269.3	125	590.6
-Cuijk	9	35.8	39	155.1
+Cranendonck	57	269.3	136	642.5
+Cuijk	9	35.8	40	159.1
 Culemborg	20	69.1	38	131.2
-Dalfsen	15	52.5	52	181.9
+Dalfsen	15	52.5	53	185.4
 Dantumadiel	2	10.6	6	31.7
-De Bilt	19	44.1	77	178.6
-De Fryske Marren	13	25.2	45	87.3
-De Ronde Venen	26	58.5	55	123.7
-De Wolden	8	32.9	26	106.9
-Delft	36	34.7	92	88.8
+De Bilt	19	44.1	79	183.2
+De Fryske Marren	13	25.2	46	89.2
+De Ronde Venen	27	60.7	57	128.2
+De Wolden	8	32.9	27	111
+Delft	36	34.7	95	91.6
 Delfzijl	5	20.3	13	52.7
-Den Helder	8	14.2	25	44.4
-Deurne	50	154	107	329.5
-Deventer	36	35.7	116	115.2
-Diemen	4	13	20	65
-Dinkelland	17	64.2	59	222.9
+Den Helder	8	14.2	27	48
+Deurne	50	154	110	338.7
+Deventer	37	36.7	117	116.2
+Diemen	5	16.2	20	65
+Dinkelland	17	64.2	60	226.7
 Doesburg	5	45.1	16	144.4
-Doetinchem	10	17.2	55	94.8
+Doetinchem	11	19	59	101.7
 Dongen	15	57.2	51	194.5
-Dordrecht	61	51.1	159	133.3
-Drechterland	2	10.1	33	167.4
+Dordrecht	61	51.1	163	136.6
+Drechterland	3	15.2	33	167.4
 Drimmelen	17	62.3	42	154
 Dronten	21	50.5	63	151.6
-Druten	19	100.4	74	391.2
+Druten	19	100.4	75	396.4
 Duiven	10	39.8	27	107.5
-Echt-Susteren	35	110.7	62	196.1
-Edam-Volendam	19	52.5	46	127.1
-Ede	49	41.8	116	99
-Eemnes	1	10.8	10	108.1
-Eersel	20	103.6	40	207.1
-Eijsden-Margraten	46	178.6	105	407.7
-Eindhoven	133	56.7	294	125.4
-Elburg	11	47.5	67	289.3
-Emmen	13	12.1	55	51.4
+Echt-Susteren	35	110.7	64	202.4
+Edam-Volendam	19	52.5	47	129.8
+Ede	49	41.8	124	105.8
+Eemnes	1	10.8	11	119
+Eersel	20	103.6	42	217.5
+Eijsden-Margraten	47	182.5	114	442.7
+Eindhoven	137	58.4	308	131.4
+Elburg	12	51.8	73	315.2
+Emmen	13	12.1	58	54.2
 Enkhuizen	17	91.4	25	134.5
-Enschede	46	28.8	136	85.1
-Epe	18	54.2	76	229
-Ermelo	16	59.2	69	255.5
-Etten-Leur	37	84.3	111	253
-Geertruidenberg	9	41.8	21	97.5
-Geldrop-Mierlo	23	57.9	63	158.6
-Gemert-Bakel	67	218.1	133	432.9
-Gennep	14	82.7	39	230.4
-Gilze en Rijen	17	64.3	51	192.9
-Goeree-Overflakkee	46	91.9	214	427.6
-Goes	9	23.6	57	149.7
-Goirle	24	100.4	60	251
-Gooise Meren	21	36.2	72	124.1
-Gorinchem	14	37.8	107	289.1
-Gouda	30	40.8	140	190.6
+Enschede	47	29.4	139	87
+Epe	22	66.3	79	238.1
+Ermelo	18	66.7	70	259.2
+Etten-Leur	37	84.3	116	264.4
+Geertruidenberg	9	41.8	22	102.1
+Geldrop-Mierlo	23	57.9	69	173.7
+Gemert-Bakel	69	224.6	133	432.9
+Gennep	14	82.7	41	242.3
+Gilze en Rijen	17	64.3	52	196.7
+Goeree-Overflakkee	47	93.9	215	429.6
+Goes	10	26.3	58	152.3
+Goirle	25	104.6	60	251
+Gooise Meren	21	36.2	74	127.5
+Gorinchem	14	37.8	112	302.6
+Gouda	31	42.2	148	201.5
 Grave	17	136.7	42	337.7
-Groningen	16	6.9	136	58.4
-Gulpen-Wittem	13	91.7	38	268.1
-Haaksbergen	13	53.5	39	160.4
+Groningen	16	6.9	137	58.8
+Gulpen-Wittem	14	98.8	41	289.2
+Haaksbergen	13	53.5	40	164.5
 Haaren	15	104.4	31	215.7
-Haarlem	52	31.9	217	133.2
-Haarlemmermeer	51	32.7	156	100
+Haarlem	52	31.9	218	133.8
+Haarlemmermeer	53	34	158	101.3
 Halderberge	11	36.3	43	142
-Hardenberg	18	29.5	120	196.9
+Hardenberg	20	32.8	124	203.5
 Harderwijk	15	31	62	128
 Hardinxveld-Giessendam	1	5.5	25	136.6
 Harlingen	3	19.1	11	70
 Hattem	10	81.9	36	294.8
-Heemskerk	21	53.6	67	171
-Heemstede	9	33	78	286.4
-Heerde	25	134.5	100	538
-Heerenveen	12	23.8	57	112.9
-Heerhugowaard	22	38.2	79	137.2
-Heerlen	92	105.7	190	218.2
-Heeze-Leende	12	74.3	38	235.3
-Heiloo	9	37.5	32	133.5
+Heemskerk	25	63.8	67	171
+Heemstede	9	33	80	293.7
+Heerde	26	139.9	106	570.3
+Heerenveen	12	23.8	58	114.9
+Heerhugowaard	22	38.2	88	152.8
+Heerlen	94	108	205	235.5
+Heeze-Leende	12	74.3	42	260.1
+Heiloo	9	37.5	34	141.8
 Hellendoorn	7	19.5	41	114.1
-Hellevoetsluis	11	27.4	50	124.5
-Helmond	74	80.1	208	225
+Hellevoetsluis	12	29.9	50	124.5
+Helmond	81	87.6	220	238
 Hendrik-Ido-Ambacht	5	16	22	70.5
-Hengelo	16	19.7	98	120.8
+Hengelo	16	19.7	100	123.2
 Het Hogeland	7	14.6	22	46
 Heumen	16	97.3	44	267.5
-Heusden	36	80.5	81	181.2
+Heusden	36	80.5	84	187.9
 Hillegom	6	27	20	90.1
 Hilvarenbeek	6	38.7	28	180.5
-Hilversum	21	23.1	66	72.6
-Hoeksche Waard	64	73.2	155	177.2
-Hof van Twente	14	40	47	134.2
-Hollands Kroon	26	53.7	49	101.2
+Hilversum	21	23.1	70	77
+Hoeksche Waard	64	73.2	158	180.7
+Hof van Twente	14	40	48	137.1
+Hollands Kroon	26	53.7	51	105.3
 Hoogeveen	10	18	41	73.6
-Hoorn	23	31.4	55	75.1
-Horst aan de Maas	40	94.3	88	207.4
-Houten	18	35.9	87	173.5
-Huizen	17	41.2	48	116.3
+Hoorn	24	32.8	56	76.5
+Horst aan de Maas	40	94.3	90	212.1
+Houten	18	35.9	91	181.5
+Huizen	18	43.6	48	116.3
 Hulst	8	29	25	90.7
-IJsselstein	30	88	72	211.1
+IJsselstein	31	90.9	74	216.9
 Kaag en Braassem	6	22	14	51.3
-Kampen	47	86.5	216	397.5
+Kampen	51	93.9	228	419.6
 Kapelle	2	15.8	15	118.2
-Katwijk	17	25.9	82	124.7
-Kerkrade	46	100.6	89	194.6
-Koggenland	6	26.4	26	114.3
+Katwijk	18	27.4	83	126.2
+Kerkrade	49	107.1	95	207.7
+Koggenland	7	30.8	27	118.7
 Krimpen aan den IJssel	8	27.1	40	135.4
-Krimpenerwaard	38	67.5	93	165.1
-Laarbeek	33	146.5	70	310.7
-Landerd	29	184.4	98	623
-Landgraaf	36	96.1	80	213.6
+Krimpenerwaard	40	71	96	170.5
+Laarbeek	34	150.9	74	328.5
+Landerd	29	184.4	99	629.4
+Landgraaf	41	109.5	90	240.3
 Landsmeer	3	26.1	17	147.9
-Langedijk	15	53.3	34	120.8
-Lansingerland	30	48.1	122	195.5
-Laren	8	71	20	177.4
+Langedijk	15	53.3	36	127.9
+Lansingerland	32	51.3	124	198.7
+Laren	8	71	21	186.3
 Leeuwarden	31	25	47	37.9
 Leiden	32	25.6	93	74.3
 Leiderdorp	9	33.3	18	66.5
-Leidschendam-Voorburg	17	22.2	57	74.5
-Lelystad	43	54.7	82	104.3
-Leudal	52	144.9	121	337.1
-Leusden	7	23	30	98.7
-Lingewaard	24	51.5	58	124.4
+Leidschendam-Voorburg	17	22.2	59	77.1
+Lelystad	43	54.7	84	106.8
+Leudal	52	144.9	126	351
+Leusden	8	26.3	31	102
+Lingewaard	24	51.5	59	126.6
 Lisse	5	21.8	13	56.6
-Lochem	9	26.7	41	121.6
+Lochem	10	29.6	43	127.5
 Loon op Zand	20	85.4	42	179.4
-Lopik	17	117.5	28	193.5
+Lopik	17	117.5	29	200.4
 Loppersum	0	0	2	21
 Losser	6	26.4	15	66.1
-Maasdriel	15	59.9	26	103.9
-Maasgouw	21	87.6	51	212.9
+Maasdriel	15	59.9	27	107.9
+Maasgouw	21	87.6	53	221.2
 Maassluis	14	42.1	37	111.4
-Maastricht	128	105.3	400	329.1
-Medemblik	14	31	48	106.4
-Meerssen	13	69	49	260.2
-Meierijstad	166	204.4	387	476.6
+Maastricht	135	111.1	440	362
+Medemblik	15	33.3	50	110.9
+Meerssen	15	79.7	60	318.6
+Meierijstad	166	204.4	394	485.2
 Meppel	5	14.7	25	73.7
 Middelburg	13	26.6	34	69.7
-Midden-Delfland	3	15.5	11	56.9
+Midden-Delfland	4	20.7	12	62
 Midden-Drenthe	6	18.1	17	51.2
 Midden-Groningen	6	9.9	22	36.2
-Mill en Sint Hubert	9	82.3	20	182.8
+Mill en Sint Hubert	9	82.3	22	201.1
 Moerdijk	9	24.2	41	110.4
-Molenlanden	16	36.4	73	166.2
-Montferland	8	22.2	45	125
+Molenlanden	16	36.4	75	170.7
+Montferland	9	25	47	130.5
 Montfoort	12	86.2	29	208.3
-Mook en Middelaar	5	63.7	23	293.1
-Neder-Betuwe	31	127.4	62	254.7
+Mook en Middelaar	5	63.7	24	305.8
+Neder-Betuwe	31	127.4	63	258.8
 Nederweert	28	164.5	39	229.1
-Nieuwegein	30	47.3	66	104
+Nieuwegein	30	47.3	69	108.7
 Nieuwkoop	7	24.3	33	114.5
-Nijkerk	21	48.6	41	95
-Nijmegen	109	61.3	385	216.7
-Nissewaard	32	37.5	104	122
-Noardeast-FryslÃ¢n	5	11	22	48.6
+Nijkerk	21	48.6	43	99.6
+Nijmegen	111	62.5	398	224
+Nissewaard	32	37.5	106	124.4
+Noardeast-Fryslân	6	13.3	23	50.8
 Noord-Beveland	1	13.5	5	67.6
-Noordenveld	2	6.4	12	38.4
-Noordoostpolder	9	19	34	71.9
+Noordenveld	2	6.4	13	41.6
+Noordoostpolder	9	19	35	74.1
 Noordwijk	13	29.9	27	62
-Nuenen Gerwen en Nederwetten	13	55.6	33	141.2
-Nunspeet	28	100.6	112	402.2
+Nuenen Gerwen en Nederwetten	14	59.9	35	149.7
+Nunspeet	29	104.1	116	416.6
 Oegstgeest	6	24.2	27	108.7
-Oirschot	12	64.1	36	192.3
+Oirschot	12	64.1	38	203
 Oisterwijk	16	61	47	179.1
 Oldambt	2	5.2	6	15.7
-Oldebroek	22	93	77	325.7
+Oldebroek	23	97.3	82	346.8
 Oldenzaal	14	44	39	122.5
-Olst-Wijhe	9	49.3	30	164.4
+Olst-Wijhe	10	54.8	33	180.8
 Ommen	7	38.9	32	177.7
-Oost Gelre	8	27	35	118.2
+Oost Gelre	8	27	38	128.3
 Oosterhout	34	60.7	72	128.6
 Ooststellingwerf	1	3.9	2	7.9
-Oostzaan	8	82.2	18	184.9
+Oostzaan	8	82.2	19	195.2
 Opmeer	1	8.4	5	42.2
-Opsterland	5	16.8	16	53.8
-Oss	112	121.8	321	349.2
-Oude IJsselstreek	8	20.3	37	93.9
+Opsterland	5	16.8	17	57.2
+Oss	112	121.8	326	354.6
+Oude IJsselstreek	9	22.8	41	104.1
 Ouder-Amstel	5	35.6	23	163.9
 Oudewater	21	205.4	40	391.2
-Overbetuwe	52	108.5	95	198.3
-Papendrecht	7	21.8	38	118.3
-Peel en Maas	133	306.3	220	506.7
+Overbetuwe	53	110.6	99	206.6
+Papendrecht	7	21.8	40	124.5
+Peel en Maas	134	308.6	225	518.2
 Pekela	4	32.8	4	32.8
 Pijnacker-Nootdorp	19	34.3	64	115.7
-Purmerend	55	67.7	136	167.4
+Purmerend	55	67.7	142	174.8
 Putten	3	12.4	16	66.4
-Raalte	20	53	54	143.2
-Reimerswaal	4	17.6	20	88
-Renkum	14	44.6	35	111.5
+Raalte	20	53	60	159.1
+Reimerswaal	4	17.6	22	96.8
+Renkum	14	44.6	36	114.6
 Renswoude	4	73.4	12	220.3
-Reusel-De Mierden	8	61	14	106.8
+Reusel-De Mierden	8	61	17	129.7
 Rheden	31	70.9	55	125.8
-Rhenen	3	14.9	15	74.5
-Ridderkerk	29	62.8	69	149.3
-Rijssen-Holten	22	57.6	71	186
-Rijswijk	17	31.2	54	99.2
-Roerdalen	25	121.5	37	179.9
-Roermond	48	82.4	94	161.4
-Roosendaal	19	24.6	124	160.6
-Rotterdam	282	43.3	1230	188.8
+Rhenen	4	19.9	15	74.5
+Ridderkerk	29	62.8	70	151.5
+Rijssen-Holten	23	60.2	72	188.6
+Rijswijk	18	33.1	57	104.7
+Roerdalen	25	121.5	38	184.7
+Roermond	48	82.4	98	168.2
+Roosendaal	19	24.6	129	167
+Rotterdam	298	45.7	1281	196.7
 Rozendaal	1	58.7	2	117.3
-Rucphen	7	30.6	35	153
-s-Gravenhage	207	38	617	113.2
-Schagen	16	34.4	56	120.5
+Rucphen	7	30.6	36	157.4
+s-Gravenhage	212	38.9	635	116.5
+Schagen	16	34.4	57	122.6
 Scherpenzeel	3	30.4	17	172.1
-Schiedam	33	41.9	80	101.6
+Schiedam	33	41.9	85	108
 Schiermonnikoog	0	0	0	0
-Schouwen-Duiveland	9	26.6	24	70.9
-Simpelveld	17	161.1	28	265.4
-Sint Anthonis	18	154.2	53	454.1
-Sint-Michielsgestel	28	95.9	64	219.2
-Sittard-Geleen	91	98.5	217	234.8
-Sliedrecht	6	23.8	30	119
+Schouwen-Duiveland	10	29.5	27	79.7
+Simpelveld	17	161.1	30	284.3
+Sint Anthonis	18	154.2	54	462.6
+Sint-Michielsgestel	29	99.3	68	232.9
+Sittard-Geleen	91	98.5	242	261.8
+Sliedrecht	7	27.8	32	126.9
 Sluis	7	30.2	15	64.6
-Smallingerland	6	10.7	25	44.5
-Soest	19	40.8	59	126.6
-Someren	26	134.2	65	335.5
-Son en Breugel	27	155.9	50	288.7
+Smallingerland	7	12.5	27	48.1
+Soest	20	42.9	61	130.9
+Someren	27	139.3	71	366.4
+Son en Breugel	27	155.9	51	294.4
 Stadskanaal	2	6.3	4	12.6
-Staphorst	7	40.8	41	239.2
-Stede Broec	16	73.6	39	179.4
+Staphorst	7	40.8	42	245
+Stede Broec	16	73.6	40	184
 Steenbergen	11	44.9	45	183.7
-Steenwijkerland	11	24.9	47	106.5
-Stein	36	144	68	272
-Stichtse Vecht	26	40	65	100.1
-SÃºdwest-FryslÃ¢n	16	17.8	52	57.8
-Terneuzen	19	34.9	73	134.1
+Steenwijkerland	11	24.9	51	115.5
+Stein	36	144	72	288
+Stichtse Vecht	26	40	68	104.7
+Súdwest-Fryslân	16	17.8	54	60
+Terneuzen	19	34.9	80	147
 Terschelling	0	0	1	20.5
-Texel	3	22.1	11	81
-Teylingen	12	32.1	30	80.2
-Tholen	34	132	102	396
-Tiel	34	80.6	67	158.9
-Tilburg	158	71.9	499	227
-Tubbergen	10	47	60	282
-Twenterand	9	26.7	39	115.6
+Texel	4	29.5	11	81
+Teylingen	12	32.1	32	85.5
+Tholen	34	132	107	415.4
+Tiel	34	80.6	68	161.3
+Tilburg	159	72.3	501	227.9
+Tubbergen	10	47	61	286.7
+Twenterand	9	26.7	40	118.5
 Tynaarlo	7	20.7	32	94.5
 Tytsjerksteradiel	4	12.5	14	43.7
-Uden	88	208.9	212	503.3
+Uden	88	208.9	217	515.2
 Uitgeest	4	29.3	18	131.9
-Uithoorn	12	40.7	33	112
-Urk	19	90.3	43	204.4
-Utrecht	158	44.2	558	156
-Utrechtse Heuvelrug	21	42.3	65	131
-Vaals	9	89.1	19	188.1
-Valkenburg aan de Geul	13	79.5	46	281.2
-Valkenswaard	13	41.7	90	288.5
+Uithoorn	12	40.7	35	118.8
+Urk	19	90.3	44	209.2
+Utrecht	163	45.6	577	161.3
+Utrechtse Heuvelrug	21	42.3	67	135.1
+Vaals	9	89.1	20	198
+Valkenburg aan de Geul	14	85.6	51	311.7
+Valkenswaard	14	44.9	97	310.9
 Veendam	2	7.3	7	25.6
-Veenendaal	30	45.1	72	108.3
+Veenendaal	32	48.1	78	117.3
 Veere	5	22.8	19	86.8
-Veldhoven	23	50.6	66	145.2
-Velsen	25	36.4	177	257.8
-Venlo	115	113	198	194.5
-Venray	35	80.3	71	162.8
-Vijfheerenlanden	20	35.2	149	262.3
-Vlaardingen	27	36.8	130	177
+Veldhoven	25	55	76	167.2
+Velsen	25	36.4	178	259.2
+Venlo	115	113	202	198.4
+Venray	35	80.3	76	174.3
+Vijfheerenlanden	20	35.2	150	264
+Vlaardingen	29	39.5	132	179.7
 Vlieland	0	0	0	0
 Vlissingen	8	18	44	99.2
-Voerendaal	13	104.2	23	184.4
+Voerendaal	14	112.3	25	200.5
 Voorschoten	9	35.2	24	93.7
-Voorst	10	40.7	42	171.1
+Voorst	10	40.7	43	175.2
 Vught	36	135.6	75	282.4
-Waadhoeke	7	15.2	58	125.9
-Waalre	5	28.6	20	114.6
-Waalwijk	23	47.3	98	201.6
+Waadhoeke	8	17.4	59	128
+Waalre	5	28.6	21	120.3
+Waalwijk	23	47.3	101	207.7
 Waddinxveen	11	37.6	33	112.7
-Wageningen	13	32.8	29	73.1
-Wassenaar	7	26.7	31	118.3
-Waterland	12	68.9	21	120.5
+Wageningen	14	35.3	30	75.6
+Wassenaar	7	26.7	30	114.4
+Waterland	12	68.9	22	126.3
 Weert	55	109.8	95	189.6
 Weesp	9	45.6	28	141.9
 West Betuwe	32	62.5	108	210.9
-West Maas en Waal	12	62.1	55	284.7
+West Maas en Waal	12	62.1	57	295
 Westerkwartier	14	22.1	50	78.9
 Westerveld	6	30.8	23	118.2
-Westervoort	9	60.1	17	113.5
+Westervoort	10	66.8	19	126.9
 Westerwolde	5	19.4	5	19.4
-Westland	41	37.2	148	134.1
+Westland	42	38.1	150	135.9
 Weststellingwerf	2	7.7	13	50.2
 Westvoorne	6	40.7	21	142.6
-Wierden	4	16.4	30	122.7
-Wijchen	36	87.5	86	209.1
+Wierden	4	16.4	31	126.8
+Wijchen	37	90	88	214
 Wijdemeren	7	28.7	16	65.7
-Wijk bij Duurstede	7	29.3	23	96.2
-Winterswijk	3	10.4	19	65.8
-Woensdrecht	4	18.3	20	91.4
-Woerden	39	74.6	97	185.5
+Wijk bij Duurstede	8	33.5	23	96.2
+Winterswijk	3	10.4	21	72.8
+Woensdrecht	4	18.3	24	109.7
+Woerden	42	80.3	100	191.2
 Wormerland	16	98.2	29	177.9
-Woudenberg	8	59.9	19	142.2
-Zaanstad	88	56.2	220	140.4
+Woudenberg	8	59.9	21	157.2
+Zaanstad	88	56.2	224	142.9
 Zaltbommel	17	58.8	40	138.4
-Zandvoort	9	52.6	27	157.7
+Zandvoort	10	58.4	29	169.4
 Zeewolde	8	35.3	20	88.3
-Zeist	29	44.7	88	135.5
-Zevenaar	38	86.9	60	137.2
-Zoetermeer	36	28.7	98	78.2
+Zeist	29	44.7	90	138.6
+Zevenaar	39	89.2	63	144
+Zoetermeer	37	29.5	102	81.4
 Zoeterwoude	2	23.2	7	81.3
 Zuidplas	17	38.7	64	145.8
-Zundert	16	73.3	44	201.6
+Zundert	16	73.3	45	206.2
 Zutphen	17	35.5	46	95.9
-Zwartewaterland	31	136.6	103	453.9
-Zwijndrecht	12	26.8	61	136.3
-Zwolle	46	35.7	222	172.3
+Zwartewaterland	31	136.6	106	467.2
+Zwijndrecht	12	26.8	63	140.8
+Zwolle	50	38.8	232	180.1
