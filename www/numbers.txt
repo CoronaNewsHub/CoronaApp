@@ -1,4 +1,4 @@
 Attribute	Value
-Positive tested persons	<span><span>30449</span></span>
-Admitted to hospital	<span><span>9465</span></span>
-Reported deaths	<span><span>3459</span></span>
+Positive tested persons	<span><span>3</span></span>1589
+Admitted to hospital	<span><span>9594</span></span>
+Reported deaths	<span><span>3601</span></span>
