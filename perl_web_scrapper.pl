@@ -58,6 +58,7 @@ for(my $i=0; $i<$len; $i++)
 	{
 		my $val = $arr[$i];
 		$val =~ s/\<h4\>|\<\/h4\>|\s|\*+|\(.+\)|\,//gi;
+		$val =~ s/<span>|<\/span>//gi;
 		push @num, $val;
 	}
 
