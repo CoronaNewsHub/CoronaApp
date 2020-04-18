@@ -20,8 +20,8 @@ my $len = @arr;
 open(my $fh1, '>', "www/cases.csv") or die "Could not open file 'cases.csv' $!";
 open(my $fh2, '>', "www/cases.txt") or die "Could not open file 'cases.txt' $!";
 
-print $fh1 "Municipality,Hospitalization,Hospitalization/100K,Cases,Cases/100k\n";
-print $fh2 "Municipality\tHospitalization\tHospitalization/100K\tCases\tCases/100k\n";
+print $fh1 "Municipality,Cases,Hospitalization,Deaths,Population,Cases per 100k,Hospitalization per 100k,Deaths per 100k\n";
+print $fh2 "Municipality\tCases\tHospitalization\tDeaths\tPopulation\tCases per 100k\tHospitalization per 100k\tDeaths per 100k\n";
 
 my @num;
 
@@ -32,10 +32,27 @@ for(my $i=0; $i<$len; $i++)
 	
 	if($arr[$i] =~ m/[0-9]+;.+;.+;.+;.+/)		#finding the lines with the pattern
 	{
+#		$arr[$i] =~ s/data\-columns\=|\"//gi;
+		
 		my @a = split(';', $arr[$i]);
 		s{'|,}{}g foreach @a;
-		print $fh1 "$a[1],$a[3],$a[6],$a[2],$a[5]\n";
-		print $fh2 "$a[1]\t$a[3]\t$a[6]\t$a[2]\t$a[5]\n";
+		
+		if($arr[$i] =~ m/data\-columns\=|\"/)
+		{
+			print "Hello\n";
+		}
+		else
+		{
+			shift @a;
+			my $cases1 = join ",", @a;
+			my $cases2 = join "\t", @a;
+			
+			print $fh1 "$cases1\n";
+			print $fh2 "$cases2\n";
+			
+	#		print $fh1 "$a[1],$a[3],$a[6],$a[2],$a[5]\n";
+	#		print $fh2 "$a[1]\t$a[3]\t$a[6]\t$a[2]\t$a[5]\n";
+		}
 	}
 	elsif($arr[$i] =~ m/<h4>/)
 	{
