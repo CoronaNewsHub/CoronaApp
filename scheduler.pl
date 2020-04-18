@@ -13,16 +13,18 @@ while(1 == 1)
 #	print "$arr[0]\n";
 	if($arr[0] >= 13 && $arr[0] <= 16)		#run only between 1 and 5 pm CEST
 	{
-		print "Entered\n";
+#		print "Entered\n1\n";
 		#run perl prog for webscrapping
 		system("perl perl_web_scrapper.pl");
 		
 		#run make graph prog
 #		system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" graphs.r`);
 		
+#		print "2\n";
 		#run daily rise in cases and deaths
 		system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" daily_rise.r`);
 		
+#		print "3\n";
 		#run rss feed script; runs after every 60 minutes (depending on time defined in sleep function)
 		system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" rss_feed_extraction.r`);
 		
@@ -39,6 +41,6 @@ while(1 == 1)
 		sleep(20);
 		
 		system("perl git.pl");
-		sleep(7100);
+		sleep(10700);
 	}
 }
