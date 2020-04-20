@@ -3,7 +3,7 @@
       var data_for_table;
           $.ajax({
             type: "GET",  
-            url: "www/cases.csv",
+            url: "www/new_cases.csv",
             dataType: "text",       
             success: function(response)  
             {
@@ -15,10 +15,12 @@
             
             columns: [
                 { title: "Municipality" },
-                { title: "Hospitalized"},
-                { title: "Hospitalized per 100k inhabitants"},
                 { title: "Cases"},
-                {title: "Cases per 100K inhabitants"}
+                { title: "Hospitalization"},
+                { title: "Deaths"},
+                {title: "Cases per 100K"},
+                {title: "Hospitalization per 100K"},
+                {title: "Deaths per 100K"}
             ]
         } );
         }    
