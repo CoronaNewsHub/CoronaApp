@@ -13,7 +13,7 @@ var y = d3.scaleLinear()
           .range([height,0]);
           
           var svg = d3.select("#testhistogram").attr("transform", "translate(" + 10 + "," + 100 + ")")
- d3.csv("MunicipalityCases.csv", function(error, data) {
+ d3.csv("www/MunicipalityCases.csv", function(error, data) {
         if (error) throw error;
           
             // format the data
