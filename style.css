@@ -1,0 +1,118 @@
+
+html,body,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+h1{color:blue;
+}
+hr{
+  stroke: green;
+}
+.myButton {
+	box-shadow:inset 0px 1px 0px 0px #bbdaf7;
+	background:linear-gradient(to bottom, #79bbff 5%, #378de5 100%);
+	background-color:#79bbff;
+	border-radius:14px;
+	border:3px solid #84bbf3;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:19px;
+	font-weight:bold;
+	padding:9px 60px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #528ecc;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #378de5 5%, #79bbff 100%);
+	background-color:#378de5;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+.line{stroke:steelblue;
+	stroke-width: 4px;
+	}
+	.bar { fill: steelblue;
+		   stroke:black;
+		   stroke-width: 2px;; }
+	
+	.arc {stroke: white;
+		  stroke-width: 2px;
+	}
+
+	path.slice{
+	stroke-width:2px;
+	}
+
+	polyline{
+		opacity: .3;
+		stroke: black;
+		stroke-width: 2px;
+		fill: none;
+	}
+	.domain{
+		stroke:black;
+		stroke-width: 3px;
+	}
+html,body,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
+h1{color:blue;
+}
+hr {
+    border: none;
+    height: 1px;
+    /* Set the hr color */
+    color: #333; /* old IE */
+    background-color: #333; /* Modern Browsers */
+}
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+@media screen and (max-width: 1100px) {
+	.column{
+	  width: 100%;
+	}
+	.svg{
+		width:50%;
+	}
+  }
+
+.weblink{
+  color:blue;
+
+}
+#tooltip {
+    position: absolute;
+    width: 200px;
+    height: auto;
+    padding: 10px;
+    background-color: white;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    -webkit-box-shadow: 4px 4px 10px rgba(0, 0, 0, 0.4);
+    -mox-box-shadow: 4px 4px 4px 10px rgba(0, 0, 0, 0.4);
+    box-shadow: 4px 4px 10px rbga(0, 0, 0, 0.4) pointer-events none;
+}
+#tooltip.hidden {
+    opacity: 0;
+}
+#tooltip p {
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 16px;
+    line-height: 20px;
+}
+
+.linegraph{
+	stroke-width: 2px;;
+}
+     

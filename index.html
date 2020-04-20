@@ -2,26 +2,15 @@
 <html>
 <title>Corona news in English</title>
 <meta charset="UTF-8">
-<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
-<script src="www/jquery.dataTables.min.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
-<script src="www/buttonFunctions.js"></script>
-<script src="www/toggleNews.js"></script>
-<script src="www/createTableCases.js"></script>
-<script src="www/createPieChart.js"></script>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Raleway">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <link rel='stylesheet' href="www/style.css">
 <link rel="stylesheet" href="www/jquery.dataTables.min.css">
-<script>
-  $(document).ready(function(){
-   $("#newsContentRIVM").load("www/rivm.html");
-  $("#NewsContentGovernment").load("www/government.html");
-  $("#DutchNews").load("www/dutch_new.html");
-})    
-</script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+
+
 
 <body class="w3-white">
     <!-- Top container -->
@@ -164,21 +153,36 @@
     </div>
   </div>
   <div class="w3-container w3-hide" id="Facts">
-    <h3>Here we try to visualize the spread of the Corona virus in the Netherlands. Everyday the numbers are refreshed based on the reports from RIVM.</h3>
- 
     <div class="row">
-      <div class="column">
-        <p><strong>The total cases per muncipality are used to visualize the cases per province.</strong></p>
-
-        <img src="www/total_cases.jpeg" heigth="500px" width="450px">
+    <h3>Here we try to visualize the spread of the Corona virus in the Netherlands. Everyday the numbers are refreshed based on the reports from RIVM.</h3>
+  </div>
+      <div class="row">
+        <h2 style="color:red">Daily cases (Postive tested, hospitalized, deaths)</h2>
+        <h5>The actual number of infections with the coronavirus is higher than the number shown here. This is because not everyone may be tested for the virus</h5>
+        <h5>There could also be a differnce between the actual numbers of reported deaths and hospital admission, because there is a delay between those variables and the day of reporting.</h5>
+        <div id="tooltip" style="opacity:0"></div>
+        <svg id="testSvgPie" width=700 height=200 viewBox="0 0 700 200" preserveAspectRatio="xMidYMid meet"></svg>
+        <hr style="color:red;">
       </div>
-      <div class="column">
-        <p><strong>For each muncipality, the total number of cases and patients hospitalized can be found here. A calculation has been made to extrapolate those numbers per 100K inhabitants</strong></p>
+      <div class-"row">
+        <h2 style="color: red;"> Daily number of corana cases and deaths</h3>
+          <h4>Line graph of the cases and deaths over the current corona period.</h4>
+          <svg id="testSvg" width=500 height=350></svg>
+          <br />
+      </div>
+      <div class="row">
+        <h2 style="color: red;">Cases per province</h3>
+          <p class="p-graphs" style="font-size:14px">Here, we have grouped the number of cases by province. This plot shows how many active cases there are in each province.</p>
+          <svg id="testhistogram" width=500 height=500 viewBox="0 0 500 500" preserveAspectRatio="xMidYMid meet"></svg>
+          <br />
 
+          <h4>To search for a city or town in the netherlands, you can use the table below. Here, we show not only the number of cases, but also the number of admitted to the hospital. Please note that for the number
+              of cases per 100K inhabitants, the number could be higher than the actual case due to extrapolation (if a town has less than 100K inhabitants).
+          </h4>
         <table id="casesPerMunicipality" class="display"  width="500px"></table>
       </div>
     </div>
-  </div>
+
     
 
 
@@ -208,6 +212,22 @@ function w3_close() {
   overlayBg.style.display = "none";
 }
 </script>
-
+<script src="https://code.jquery.com/jquery-3.3.1.js"></script>
+<script src="www/jquery.dataTables.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-csv/0.71/jquery.csv-0.71.min.js"></script>
+<script src="www/buttonFunctions.js"></script>
+<script src="www/toggleNews.js"></script>
+<script src="www/createTableCases.js"></script>
+<script src="https://d3js.org/d3.v4.js"></script>
+<script>
+  $(document).ready(function(){
+   $("#newsContentRIVM").load("www/rivm.html");
+  $("#NewsContentGovernment").load("www/government.html");
+  $("#DutchNews").load("www/dutch_new.html");
+})    
+</script>
+<script src="www/createPieChart.js"></script>
+<script src="www/histogramPlot.js"></script>
+<script src="www/createBarPlot.js"></script>
 </body>
 </html>
