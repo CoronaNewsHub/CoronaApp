@@ -19,5 +19,6 @@ write.table(numbers,"www/numbers.csv",sep=',',row.names=FALSE)
 
 # read the cases file
 cases=read.delim("www/cases.csv",header=TRUE,stringsAsFactors=FALSE)
-casesTowrite=cases[,c("Municipality","Cases","Hospitalization","Deaths","Cases per 100k","Hospitalization per 100k","Deaths per 100k")]
+#casesTowrite=cases[,c("Municipality","Cases","Hospitalization","Deaths","Cases per 100k","Hospitalization per 100k","Deaths per 100k")]
+casesTowrite=cases[,-which(names(cases) %in% "Population")]
 write.table(casesTowrite,"www/new_cases.csv",sep=",",row.names=FALSE)
