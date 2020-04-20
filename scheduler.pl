@@ -18,7 +18,7 @@ while(1 == 1)
 		system("perl perl_web_scrapper.pl");
 		
 		#run make graph prog
-#		system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" graphs.r`);
+		system(`"C:/Program Files/R/R-3.6.3/bin/Rscript.exe" graphs.r`);
 		
 #		print "2\n";
 		#run daily rise in cases and deaths
